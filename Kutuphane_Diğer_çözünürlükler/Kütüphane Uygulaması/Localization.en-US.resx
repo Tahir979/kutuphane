@@ -1,0 +1,1492 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="a1Sınıf" xml:space="preserve">
+    <value>1.Sınıf</value>
+  </data>
+  <data name="a2Sınıf" xml:space="preserve">
+    <value>2.Sınıf</value>
+  </data>
+  <data name="a3Sınıf" xml:space="preserve">
+    <value>3.Sınıf</value>
+  </data>
+  <data name="a4Sınıf" xml:space="preserve">
+    <value>4.Sınıf</value>
+  </data>
+  <data name="aaaaa" xml:space="preserve">
+    <value>Process</value>
+  </data>
+  <data name="acik" xml:space="preserve">
+    <value>Open</value>
+  </data>
+  <data name="acikk" xml:space="preserve">
+    <value>Açık</value>
+  </data>
+  <data name="Ad" xml:space="preserve">
+    <value>Ad</value>
+  </data>
+  <data name="adminler" xml:space="preserve">
+    <value>adminler</value>
+  </data>
+  <data name="Ad_2" xml:space="preserve">
+    <value>@Ad</value>
+  </data>
+  <data name="Anasayfa_Btnkitapalankisiler_Text" xml:space="preserve">
+    <value>Person Management</value>
+  </data>
+  <data name="Anasayfa_Btnyenikitap_Text" xml:space="preserve">
+    <value>Book Management</value>
+  </data>
+  <data name="anasayfa_label10" xml:space="preserve">
+    <value>If you just want to take a look at the program, you don't need to activate the admin authorization</value>
+  </data>
+  <data name="anasayfa_label15" xml:space="preserve">
+    <value>Dear friends, we ask you to bring the book back till the end of term. Please keep in mind about that and don't forget that another friend,like you, may needed to the same book. So,</value>
+  </data>
+  <data name="anasayfa_label16" xml:space="preserve">
+    <value>A message to our friends who benefit from library</value>
+  </data>
+  <data name="anasayfa_label17" xml:space="preserve">
+    <value>Please don't forget to bring the book back after you finish your job</value>
+  </data>
+  <data name="Anasayfa_Label1_Text" xml:space="preserve">
+    <value>Main Menu</value>
+  </data>
+  <data name="Anasayfa_Label2_Text" xml:space="preserve">
+    <value>Useful Links</value>
+  </data>
+  <data name="anasayfa_label5" xml:space="preserve">
+    <value>Active admin:</value>
+  </data>
+  <data name="anasayfa_label7" xml:space="preserve">
+    <value>Admin authorization:</value>
+  </data>
+  <data name="Anasayfa_Linklabel1_Text" xml:space="preserve">
+    <value>Library layout</value>
+  </data>
+  <data name="Anasayfa_Linklabel2_Text" xml:space="preserve">
+    <value>Rule of book reservation</value>
+  </data>
+  <data name="Anasayfa_Linklabel3_Text" xml:space="preserve">
+    <value>Our purpose</value>
+  </data>
+  <data name="Anasayfa_Linklabel4_Text" xml:space="preserve">
+    <value>Credits</value>
+  </data>
+  <data name="Anasayfa_Linklabel5_Text" xml:space="preserve">
+    <value>All of HUPT record</value>
+  </data>
+  <data name="anasayfa_linklabel6" xml:space="preserve">
+    <value>Get the admin authorization</value>
+  </data>
+  <data name="anasayfa_linklabel7" xml:space="preserve">
+    <value>Why get the
+admin authorization?</value>
+  </data>
+  <data name="anasayfa_linklabel8" xml:space="preserve">
+    <value>Login</value>
+  </data>
+  <data name="anasayfa_linklabel9" xml:space="preserve">
+    <value>Admin's usage records</value>
+  </data>
+  <data name="Bilgilendirme" xml:space="preserve">
+    <value>Information</value>
+  </data>
+  <data name="bmn" xml:space="preserve">
+    <value>Verification code sent to your e-mail:</value>
+  </data>
+  <data name="bnhjk" xml:space="preserve">
+    <value>ID numbered book's update process was registered successfully to Admin's usage records.</value>
+  </data>
+  <data name="bnmök" xml:space="preserve">
+    <value>Phone number which be registered in the system</value>
+  </data>
+  <data name="bosdeger" xml:space="preserve">
+    <value />
+  </data>
+  <data name="bosluk" xml:space="preserve">
+    <value> </value>
+  </data>
+  <data name="bsgfg" xml:space="preserve">
+    <value>Shelf floor which be registered in the system</value>
+  </data>
+  <data name="btnyenikitap_tooltiptext" xml:space="preserve">
+    <value>This button is used to add a new book register when a book is granted to the community by a philanthropist or to delete a book register when a book lost their legible writing conditions or to edit a books' data when wrong data is entered to program.</value>
+  </data>
+  <data name="btn_frmtüm" xml:space="preserve">
+    <value>Revert the  
+table back</value>
+  </data>
+  <data name="btn_geri_kitapvekisi_tooltip" xml:space="preserve">
+    <value>Return to home screen</value>
+  </data>
+  <data name="btn_kapa" xml:space="preserve">
+    <value>Turn off the program</value>
+  </data>
+  <data name="btn_kitapalankısıler_tooltiptext" xml:space="preserve">
+    <value>This button is used when a person wants to reserve a book or deliver a book.</value>
+  </data>
+  <data name="btn_minimize" xml:space="preserve">
+    <value>Minimize the program</value>
+  </data>
+  <data name="button4_fadf" xml:space="preserve">
+    <value>Clear the boxes</value>
+  </data>
+  <data name="Dear" xml:space="preserve">
+    <value>Sevgili </value>
+  </data>
+  <data name="dfhfd" xml:space="preserve">
+    <value>Password which be registered in the system</value>
+  </data>
+  <data name="dgfaahfha" xml:space="preserve">
+    <value>Your password has been successfully confirmed.</value>
+  </data>
+  <data name="dhsddh" xml:space="preserve">
+    <value>Password was entered incorrectly.</value>
+  </data>
+  <data name="dilsecimi" xml:space="preserve">
+    <value>Language Preference</value>
+  </data>
+  <data name="dilSeçmekİçinTıklayınızToolStripMenuItem1" xml:space="preserve">
+    <value>Click to select the language</value>
+  </data>
+  <data name="dil_et" xml:space="preserve">
+    <value>@dil</value>
+  </data>
+  <data name="dlscm" xml:space="preserve">
+    <value>Dil seçmek için tıklayınız</value>
+  </data>
+  <data name="dsgas" xml:space="preserve">
+    <value>@kullaniciadi</value>
+  </data>
+  <data name="dvs" xml:space="preserve">
+    <value>ID numbered person's delete process was registered successfully to Admin's usage records.</value>
+  </data>
+  <data name="düzID" xml:space="preserve">
+    <value>ID</value>
+  </data>
+  <data name="düzkitapid" xml:space="preserve">
+    <value>kitapid</value>
+  </data>
+  <data name="edcv" xml:space="preserve">
+    <value>. After you finish your job, please don't forget to close your admin authorization.</value>
+  </data>
+  <data name="ekle" xml:space="preserve">
+    <value>ekle</value>
+  </data>
+  <data name="eksibir" xml:space="preserve">
+    <value>-1</value>
+  </data>
+  <data name="emek" xml:space="preserve">
+    <value>Credits</value>
+  </data>
+  <data name="emekmesaj1" xml:space="preserve">
+    <value>We, as HUPT family, thanks to all of the friends whom their name is written above for their effort.</value>
+  </data>
+  <data name="emekmesaj2" xml:space="preserve">
+    <value>Our message, as the community, is that please put the book back to space which you take the book and don't break the library's layout as much as we can</value>
+  </data>
+  <data name="English" xml:space="preserve">
+    <value>English</value>
+  </data>
+  <data name="f" xml:space="preserve">
+    <value>@kullaniciadi</value>
+  </data>
+  <data name="fdads" xml:space="preserve">
+    <value>Do you want to continue your admin authorization?</value>
+  </data>
+  <data name="fddsa" xml:space="preserve">
+    <value>We removed the reliance control, you can do anything without entering password.</value>
+  </data>
+  <data name="fdhhfd" xml:space="preserve">
+    <value>We have successfully confirmed that you are, you can start the update process.</value>
+  </data>
+  <data name="fdsd" xml:space="preserve">
+    <value>Bookshelf's name which be registered in the system</value>
+  </data>
+  <data name="formload_en" xml:space="preserve">
+    <value>en-US</value>
+  </data>
+  <data name="formload_hupt" xml:space="preserve">
+    <value>hüpt</value>
+  </data>
+  <data name="formload_jp" xml:space="preserve">
+    <value>ja-JP</value>
+  </data>
+  <data name="formload_toolstripmenu_ingilizce" xml:space="preserve">
+    <value>İngilizce</value>
+  </data>
+  <data name="formload_toolstripmenu_japonca" xml:space="preserve">
+    <value>Japonca</value>
+  </data>
+  <data name="formload_toolstripmenu_turkce" xml:space="preserve">
+    <value>Türkçe</value>
+  </data>
+  <data name="formload_tr" xml:space="preserve">
+    <value />
+  </data>
+  <data name="frgr" xml:space="preserve">
+    <value>@tarihvesaat</value>
+  </data>
+  <data name="frmadmin_asd" xml:space="preserve">
+    <value>This mail address was get before.</value>
+  </data>
+  <data name="frmadmin_btn" xml:space="preserve">
+    <value>Get the admin authorization</value>
+  </data>
+  <data name="frmadmin_err" xml:space="preserve">
+    <value>Please overcome the problem which indicated by the red object(it appears near the boxes).</value>
+  </data>
+  <data name="frmadmin_ert" xml:space="preserve">
+    <value>This username was get before.</value>
+  </data>
+  <data name="frmadmin_fgh" xml:space="preserve">
+    <value>Verification code couldn't sent to your email successfully, please check the internet connection.</value>
+  </data>
+  <data name="frmadmin_ghj" xml:space="preserve">
+    <value>This mail address is suitable.</value>
+  </data>
+  <data name="frmadmin_gty" xml:space="preserve">
+    <value>Please enter valid email format.</value>
+  </data>
+  <data name="frmadmin_kgh" xml:space="preserve">
+    <value>Your verification code was sent to your email successfully. Please use your verification code on other form.</value>
+  </data>
+  <data name="frmadmin_klj" xml:space="preserve">
+    <value>Username cannot leave empty.</value>
+  </data>
+  <data name="frmadmin_ktc" xml:space="preserve">
+    <value>Please fill the box</value>
+  </data>
+  <data name="frmadmin_label1" xml:space="preserve">
+    <value>Menu of getting admin authorization</value>
+  </data>
+  <data name="frmadmin_label10" xml:space="preserve">
+    <value>Username:</value>
+  </data>
+  <data name="frmadmin_label12" xml:space="preserve">
+    <value>Password:</value>
+  </data>
+  <data name="frmadmin_label3" xml:space="preserve">
+    <value>Name:</value>
+  </data>
+  <data name="frmadmin_label4" xml:space="preserve">
+    <value>Surname:</value>
+  </data>
+  <data name="frmadmin_label6" xml:space="preserve">
+    <value>1. Special character(like *, -, ", |) cannot be used.</value>
+  </data>
+  <data name="frmadmin_label7" xml:space="preserve">
+    <value>2. When you get the admin authorization, please check internet connection.</value>
+  </data>
+  <data name="frmadmin_label8" xml:space="preserve">
+    <value>3. Please pay attention that your mail extension is only "gmail" or "hotmail" when you enter your mail, otherwise, your mail don't be accepted.</value>
+  </data>
+  <data name="frmadmin_ujk" xml:space="preserve">
+    <value>This username is suitable.</value>
+  </data>
+  <data name="frmadmin_xb" xml:space="preserve">
+    <value>Please enter the verification code again</value>
+  </data>
+  <data name="frmamac_formname" xml:space="preserve">
+    <value>What's our purpose?</value>
+  </data>
+  <data name="frmamac_label1_Text" xml:space="preserve">
+    <value>The purpose of programming this program is to use the library effectively and to be aware of what's room's sources. When we come to the room to search for a book,  because the library is chaotic, most of the time, we didn't success to find any book which is useful for all of us. In the face of such a situation, we, as Hupt, wanted to make more functional the room's library and as a consequence, the program showed up.</value>
+  </data>
+  <data name="frmanasayfa_font" xml:space="preserve">
+    <value>Microsoft Sans Serif</value>
+  </data>
+  <data name="frmarama_groupbox" xml:space="preserve">
+    <value>Explanation</value>
+  </data>
+  <data name="frmarama_label1" xml:space="preserve">
+    <value>3-) Not only you can search with name, surname or book's name but also you can search with bookshelf's name, date of issue, language.)(All of yours search process is done synchronously. In other words, you can search the book with only one feature or five features. It depends on your search preferences.</value>
+  </data>
+  <data name="frmarama_label3" xml:space="preserve">
+    <value>1-) You don't have to write complete name when search a book or author, also, it doesn't matter you use upper - lower case.</value>
+  </data>
+  <data name="frmarama_label4" xml:space="preserve">
+    <value>Let's say that name of the book is "Hacettepe", you can search this book a lot of different ways present at below:</value>
+  </data>
+  <data name="frmarama_label5" xml:space="preserve">
+    <value>-hacettepe, HaCeTTEpE, cettepe, tepe, acet, Hace, üniversite, üni, versite, versi, site, cettepe, cet....</value>
+  </data>
+  <data name="frmarama_label6" xml:space="preserve">
+    <value>Like all of the above, the most important point you have to pay attention, you must write the text according to the order of the book name or author name. If you search a book or author these ways, you can find it easily what you search. For example, if you search "Hacettepe" book with "ceta" text instead of "acet" text, unfortunately, you can not find anything.</value>
+  </data>
+  <data name="frmarama_label7" xml:space="preserve">
+    <value>2-)Name of the author was written with the same name found on the book's cover. (Exp: Mehmet Akif Sayılgan or A.Gül Aydın or Gül N. Eryüksel)Also, we haven't entered any author's name with the author's job titles like "Dr.". So, if you want to search any author, we recommend that it had better you search author's first and second name separately or search the only surname because some of the author's name has abbreviation on first name or some has abbreviation on the second name; but, author's surname has never written with an abbreviation.</value>
+  </data>
+  <data name="frmarama_text" xml:space="preserve">
+    <value>How can i search?</value>
+  </data>
+  <data name="frmdgr_basari" xml:space="preserve">
+    <value>Your admin authorization is activated successfully.</value>
+  </data>
+  <data name="frmdgr_btn" xml:space="preserve">
+    <value>Okey</value>
+  </data>
+  <data name="frmdgr_label1" xml:space="preserve">
+    <value>Please enter the verification code:</value>
+  </data>
+  <data name="frmduzen_formisim" xml:space="preserve">
+    <value>Bookshelf Layout</value>
+  </data>
+  <data name="frmduzen_groupboxtext" xml:space="preserve">
+    <value>Layout Expression</value>
+  </data>
+  <data name="frmduzen_label13_Text" xml:space="preserve">
+    <value>All of the books, one by one, was placed to the shelves appropriate for their content, and then, to all of these books, was given a number. All of the information which is related to books like which floor and shelf the book was placed and the number with which book was registered was entered to the program.</value>
+  </data>
+  <data name="frmduzen_label14_Text" xml:space="preserve">
+    <value>In the right side, a sample bookshelf layout was demonstrated.</value>
+  </data>
+  <data name="frmduzen_label15_Text" xml:space="preserve">
+    <value>Also, at "Bookshelf Name" part which is found in the program, name of bookshelves which we placed books and which abbreviations we express on the books was shown.</value>
+  </data>
+  <data name="frmduzen_label16_Text" xml:space="preserve">
+    <value>(D) was used for Experimental Psychology's abbreviation at the bookshelf. For example, Sixty numbered a book which was present at third floor has a layout like "D-60" on it(In the right side, these numbers which are present at near of shelves is representative).</value>
+  </data>
+  <data name="frmduzen_label1_Text" xml:space="preserve">
+    <value>1.Floor</value>
+  </data>
+  <data name="frmduzen_label2_Text" xml:space="preserve">
+    <value>2.Floor</value>
+  </data>
+  <data name="frmduzen_label3_Text" xml:space="preserve">
+    <value>3.Floor</value>
+  </data>
+  <data name="frmduzen_label4_Text" xml:space="preserve">
+    <value>4.Floor</value>
+  </data>
+  <data name="frmduzen_label5_Text" xml:space="preserve">
+    <value>5.Floor</value>
+  </data>
+  <data name="frmduzen_label6_Text" xml:space="preserve">
+    <value>Experimental(D)</value>
+  </data>
+  <data name="frmekle_0" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="frmekle_1" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="frmekle_2" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="frmekle_3" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="frmekle_4" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="frmekle_5" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="frmekle_ad" xml:space="preserve">
+    <value>Ad</value>
+  </data>
+  <data name="frmekle_AldigiGununTarihi" xml:space="preserve">
+    <value>AldigiGununTarihi</value>
+  </data>
+  <data name="frmekle_AldigiKitabinİsmi" xml:space="preserve">
+    <value>@AldigiKitabinİsmi</value>
+  </data>
+  <data name="frmekle_bilg_acik" xml:space="preserve">
+    <value>Information Mod On</value>
+  </data>
+  <data name="frmekle_bilg_kapali" xml:space="preserve">
+    <value>Information Mod Off</value>
+  </data>
+  <data name="frmekle_btnguncelle_text" xml:space="preserve">
+    <value>Update book</value>
+  </data>
+  <data name="frmekle_btnkaydet_text" xml:space="preserve">
+    <value>Add book</value>
+  </data>
+  <data name="frmekle_btnsil_text" xml:space="preserve">
+    <value>Delete book</value>
+  </data>
+  <data name="frmekle_btntemizle_text" xml:space="preserve">
+    <value>Clear the boxes</value>
+  </data>
+  <data name="frmekle_chechkbox1" xml:space="preserve">
+    <value>Turkish</value>
+  </data>
+  <data name="frmekle_chechkbox2" xml:space="preserve">
+    <value>English</value>
+  </data>
+  <data name="frmekle_chechkbox3" xml:space="preserve">
+    <value>Other</value>
+  </data>
+  <data name="frmekle_editmod_soru" xml:space="preserve">
+    <value>Are you sure to active the edit mod?</value>
+  </data>
+  <data name="frmekle_edit_acik" xml:space="preserve">
+    <value>Edit mod On</value>
+  </data>
+  <data name="frmekle_edit_bild" xml:space="preserve">
+    <value>Edit Mod is open now.</value>
+  </data>
+  <data name="frmekle_edit_bildolumsuz" xml:space="preserve">
+    <value>Edit Mode isn't open.</value>
+  </data>
+  <data name="frmekle_edit_kapali" xml:space="preserve">
+    <value>Edit mod Off</value>
+  </data>
+  <data name="frmekle_edit_kapali_bild" xml:space="preserve">
+    <value>Edit Mod is close now.</value>
+  </data>
+  <data name="frmekle_ekle_basari" xml:space="preserve">
+    <value>Entering a new book is successful.</value>
+  </data>
+  <data name="frmekle_ekle_kesinlestir" xml:space="preserve">
+    <value>Are you sure to enter a new book register?</value>
+  </data>
+  <data name="frmekle_ekle_uyari" xml:space="preserve">
+    <value>You clicked the wrong button, I think you want to update or delete data, please read the rules by dragging the cursor on these buttons.</value>
+  </data>
+  <data name="frmekle_groupBox1" xml:space="preserve">
+    <value>Editing book</value>
+  </data>
+  <data name="frmekle_groupBox2" xml:space="preserve">
+    <value>Search book</value>
+  </data>
+  <data name="frmekle_groupBox3" xml:space="preserve">
+    <value>Where is book?</value>
+  </data>
+  <data name="frmekle_groupBox4" xml:space="preserve">
+    <value>Active "editing book"</value>
+  </data>
+  <data name="frmekle_groupBox5" xml:space="preserve">
+    <value>Book's Language</value>
+  </data>
+  <data name="frmekle_guncelle_basari" xml:space="preserve">
+    <value>Update process is successful.</value>
+  </data>
+  <data name="frmekle_guncelle_kesinlestir_part1" xml:space="preserve">
+    <value>Are you sure to update person' data?</value>
+  </data>
+  <data name="frmekle_guncelle_uyari" xml:space="preserve">
+    <value>Please follow the rules when updating a book register, you can read how it must be by dragging the cursor on this button, because, a notification dialogue box will have appeared on the button and the rules will have seen here.</value>
+  </data>
+  <data name="frmekle_header1" xml:space="preserve">
+    <value>Book's name</value>
+  </data>
+  <data name="frmekle_header2" xml:space="preserve">
+    <value>Author</value>
+  </data>
+  <data name="frmekle_header3" xml:space="preserve">
+    <value>Date of Issue</value>
+  </data>
+  <data name="frmekle_header4" xml:space="preserve">
+    <value>Bookshelf's name</value>
+  </data>
+  <data name="frmekle_header5" xml:space="preserve">
+    <value>Shelf floor</value>
+  </data>
+  <data name="frmekle_header6" xml:space="preserve">
+    <value>Number</value>
+  </data>
+  <data name="frmekle_header7" xml:space="preserve">
+    <value>Language</value>
+  </data>
+  <data name="frmekle_ID" xml:space="preserve">
+    <value>@ID</value>
+  </data>
+  <data name="frmekle_kisi" xml:space="preserve">
+    <value>kisi</value>
+  </data>
+  <data name="frmekle_KitabinYazari" xml:space="preserve">
+    <value>@KitabinYazari</value>
+  </data>
+  <data name="frmekle_Kitabinİsmi" xml:space="preserve">
+    <value>@Kitabinİsmi</value>
+  </data>
+  <data name="frmekle_KitabınBasımYılı" xml:space="preserve">
+    <value>@KitabınBasımYılı</value>
+  </data>
+  <data name="frmekle_KitabınRafKatı" xml:space="preserve">
+    <value>@KitabınRafKatı</value>
+  </data>
+  <data name="frmekle_KitabınRafNumarası" xml:space="preserve">
+    <value>@KitabınRafNumarası</value>
+  </data>
+  <data name="frmekle_KitabınRafınınİsmi" xml:space="preserve">
+    <value>@KitabınRafınınİsmi</value>
+  </data>
+  <data name="frmekle_kitapid" xml:space="preserve">
+    <value>@kitapid</value>
+  </data>
+  <data name="frmekle_kitaplik" xml:space="preserve">
+    <value>kitaplik</value>
+  </data>
+  <data name="frmekle_label1" xml:space="preserve">
+    <value>Book's name:</value>
+  </data>
+  <data name="frmekle_label11" xml:space="preserve">
+    <value>Only integer</value>
+  </data>
+  <data name="frmekle_label12" xml:space="preserve">
+    <value>Book Management</value>
+  </data>
+  <data name="frmekle_label13" xml:space="preserve">
+    <value>The person who get the book: </value>
+  </data>
+  <data name="frmekle_label14" xml:space="preserve">
+    <value>Author or book can be searched: </value>
+  </data>
+  <data name="frmekle_label16" xml:space="preserve">
+    <value>Date which the book must be back: </value>
+  </data>
+  <data name="frmekle_label17" xml:space="preserve">
+    <value>Click the book name you wonder whether the book is here when edit mod is close.</value>
+  </data>
+  <data name="frmekle_label18" xml:space="preserve">
+    <value>The book name which is red means that anyone reserved the book.</value>
+  </data>
+  <data name="frmekle_label19" xml:space="preserve">
+    <value>If the book hasn't any date of issue, don't fill the date of issue's box </value>
+  </data>
+  <data name="frmekle_label2" xml:space="preserve">
+    <value>Author:</value>
+  </data>
+  <data name="frmekle_label23" xml:space="preserve">
+    <value>Bookshelf: </value>
+  </data>
+  <data name="frmekle_label24" xml:space="preserve">
+    <value>Date of issue: </value>
+  </data>
+  <data name="frmekle_label3" xml:space="preserve">
+    <value>Date of issue:</value>
+  </data>
+  <data name="frmekle_label4" xml:space="preserve">
+    <value>Bookshelf's name:</value>
+  </data>
+  <data name="frmekle_label5" xml:space="preserve">
+    <value>Shelf floor:</value>
+  </data>
+  <data name="frmekle_label6" xml:space="preserve">
+    <value>Number:</value>
+  </data>
+  <data name="frmekle_label7" xml:space="preserve">
+    <value>Count of book which is appropriate: </value>
+  </data>
+  <data name="frmekle_label8" xml:space="preserve">
+    <value />
+  </data>
+  <data name="frmekle_label9" xml:space="preserve">
+    <value>Only integer</value>
+  </data>
+  <data name="frmekle_linklabel1" xml:space="preserve">
+    <value>How can i search?</value>
+  </data>
+  <data name="frmekle_linklabel3" xml:space="preserve">
+    <value>Add/Del</value>
+  </data>
+  <data name="frmekle_pictgiris" xml:space="preserve">
+    <value>Please active the edit mode from Application Mode.</value>
+  </data>
+  <data name="frmekle_pict_uyari" xml:space="preserve">
+    <value>You can not active the Information mod because you have to activate the edit mode first</value>
+  </data>
+  <data name="frmekle_sahipyok" xml:space="preserve">
+    <value>This book is here</value>
+  </data>
+  <data name="frmekle_sil_basari" xml:space="preserve">
+    <value>Deleting the book is successfull.</value>
+  </data>
+  <data name="frmekle_sil_kesinlestir" xml:space="preserve">
+    <value>Are you sure to delete the book?</value>
+  </data>
+  <data name="frmekle_sil_uyari2" xml:space="preserve">
+    <value>Please follow the rules when deleting a book, you can read how it must be by dragging the cursor on this button, because, a notification dialogue box will have appeared on the button and the rules will have seen here.</value>
+  </data>
+  <data name="frmekle_sil_uyari3" xml:space="preserve">
+    <value>You can not delete a book which is red colour because this book isn't here.</value>
+  </data>
+  <data name="frmekle_toolmenustrip1" xml:space="preserve">
+    <value>Türkçe</value>
+  </data>
+  <data name="frmekle_toolmenustrip2" xml:space="preserve">
+    <value>English</value>
+  </data>
+  <data name="frmekle_toolmenustrip3" xml:space="preserve">
+    <value>Diğer / Other</value>
+  </data>
+  <data name="frmekle_toolstripmenu0" xml:space="preserve">
+    <value>Click to select the language</value>
+  </data>
+  <data name="frmekle_uyaristring" xml:space="preserve">
+    <value> couln't be found on this language preference.</value>
+  </data>
+  <data name="frmekle_uyaristring_2" xml:space="preserve">
+    <value> couln't be found.</value>
+  </data>
+  <data name="frmgrs_btn1" xml:space="preserve">
+    <value>Login</value>
+  </data>
+  <data name="frmgrs_grs" xml:space="preserve">
+    <value>Login successful</value>
+  </data>
+  <data name="frmgrs_label1" xml:space="preserve">
+    <value>Username: </value>
+  </data>
+  <data name="frmgrs_label2" xml:space="preserve">
+    <value>Password: </value>
+  </data>
+  <data name="frmgrs_linklabel1" xml:space="preserve">
+    <value>Forgot password</value>
+  </data>
+  <data name="frmgrs_linklabel2" xml:space="preserve">
+    <value>Update my info</value>
+  </data>
+  <data name="frmgrs_msg" xml:space="preserve">
+    <value>Incorrect username or password was entered.</value>
+  </data>
+  <data name="frmhataliid_label" xml:space="preserve">
+    <value>Let's say that you contacted with 133.ID but you selected wrongly 134.ID and clicked the button, then,  you realized that your selection is wrong. If so, you can use this button to fix the ID selection. At fix the wrong ID selection menu, you must select the wrong ID and click this button.</value>
+  </data>
+  <data name="frmhataliid__frmname" xml:space="preserve">
+    <value>What's the wrong ID Selection?</value>
+  </data>
+  <data name="frmkisi_aldigigununtarihi" xml:space="preserve">
+    <value>@AldigiGununTarihi</value>
+  </data>
+  <data name="frmkisi_aldigikitabinismi" xml:space="preserve">
+    <value>@AldigiKitabinİsmi</value>
+  </data>
+  <data name="frmkisi_boskutucuk_mb_part1" xml:space="preserve">
+    <value>Please fill the boxes.</value>
+  </data>
+  <data name="frmkisi_boskutucuk_mb_part1_button6" xml:space="preserve">
+    <value>Please select a ID from the box.</value>
+  </data>
+  <data name="frmkisi_btnekle_text" xml:space="preserve">
+    <value>Add</value>
+  </data>
+  <data name="frmkisi_btnekle_tooltiptext" xml:space="preserve">
+    <value>How to add new person?
+   *You can add the register of new person's data by entering the correct data to the four boxes present above.</value>
+  </data>
+  <data name="frmkisi_btnekle_tooltiptext1" xml:space="preserve">
+    <value>How to add new person?
+   *You can add the register of new person's data by entering the correct data to the seven boxes present above.</value>
+  </data>
+  <data name="frmkisi_btnguncelle_text" xml:space="preserve">
+    <value>Update</value>
+  </data>
+  <data name="frmkisi_btnguncelle_tooltiptext" xml:space="preserve">
+    <value>How to update a person's data?
+     *You can update person by dragging the cursor on the row found the person's data, after you drag the cursor, click this row, and then, you can see the person's data will be written into the boxes, after that, you can enter new data to the boxes and then click the "Update" button, the person's data will be updated.</value>
+  </data>
+  <data name="frmkisi_btnsil_text" xml:space="preserve">
+    <value>Delete</value>
+  </data>
+  <data name="frmkisi_btnsil_tooltiptext" xml:space="preserve">
+    <value>How to delete a person's data?
+     *You can delete person by dragging the cursor on the row found the person's data, after you drag the cursor, click this row, and then, you can see the person's data will be written into the boxes, after that, if you click the "Delete" button, the person's data will be deleted.</value>
+  </data>
+  <data name="frmkisi_btnuzat_text" xml:space="preserve">
+    <value>Extend duration</value>
+  </data>
+  <data name="frmkisi_btnuzat_tooltiptext" xml:space="preserve">
+    <value>How to extend the duration of reserving book?
+     *You can extend the duration of reserving book by dragging the cursor on the row found the person's data, after you drag the cursor, click this row, and then, you can see the person's data will be written into the boxes, after that, if you click the "Extend duration" button, the duration of reserving book will be extended.</value>
+  </data>
+  <data name="frmkisi_bugün" xml:space="preserve">
+    <value>@Bugün</value>
+  </data>
+  <data name="frmkisi_bugüneng" xml:space="preserve">
+    <value>@Bugüneng</value>
+  </data>
+  <data name="frmkisi_buton5_hata_part1" xml:space="preserve">
+    <value>We contacted with that person before.</value>
+  </data>
+  <data name="frmkisi_buton6_uyarı" xml:space="preserve">
+    <value>Please select a ID from the box.</value>
+  </data>
+  <data name="frmkisi_button4_tooltiptext" xml:space="preserve">
+    <value>It's useful to delete the boxes' texts.</value>
+  </data>
+  <data name="frmkisi_button5_mb_part1" xml:space="preserve">
+    <value>The register of contacting with the person was registered successfully.</value>
+  </data>
+  <data name="frmkisi_button5_Text" xml:space="preserve">
+    <value>Save the contact report</value>
+  </data>
+  <data name="frmkisi_button5_tooltiptext" xml:space="preserve">
+    <value>This button's task is easy. People who take the book and yet don't bring back the book are listed here. After two months, we contact people via their phone numbers and we demand the book to bring back, and we select the ID which people have and then click this button, so, the date we contact the people is registered to the program.</value>
+  </data>
+  <data name="frmkisi_button6_mb_part1" xml:space="preserve">
+    <value>Fixing of the wrong ID selection is successful.</value>
+  </data>
+  <data name="frmkisi_button6_Text" xml:space="preserve">
+    <value>Fix </value>
+  </data>
+  <data name="frmkisi_cokbuyukdeger_part1" xml:space="preserve">
+    <value>Please don't insert very big integer.</value>
+  </data>
+  <data name="frmkisi_datetime_hhmm" xml:space="preserve">
+    <value>HH:mm</value>
+  </data>
+  <data name="frmkisi_ekle_kesinlestir_mb_part1" xml:space="preserve">
+    <value>Are you sure to enter a new person's data?</value>
+  </data>
+  <data name="frmkisi_ekle_mb_part1" xml:space="preserve">
+    <value>Entering of person's data is successful.</value>
+  </data>
+  <data name="frmkisi_ekle_yanlisislem_mb_part1" xml:space="preserve">
+    <value>You clicked the wrong button, I think you want to update or delete data, please read the rules by dragging the cursor on these buttons.</value>
+  </data>
+  <data name="frmkisi_groupbox1text" xml:space="preserve">
+    <value>Fix the wrong ID selection</value>
+  </data>
+  <data name="frmkisi_groupbox2text" xml:space="preserve">
+    <value>Contact</value>
+  </data>
+  <data name="frmkisi_guncelle_kesinlestir_mb_part1" xml:space="preserve">
+    <value>Are you sure to update the person's data?</value>
+  </data>
+  <data name="frmkisi_guncelle_mb_part1" xml:space="preserve">
+    <value>The updating process is successful.</value>
+  </data>
+  <data name="frmkisi_guncelle_yanlisislem_mb_part1" xml:space="preserve">
+    <value>Please follow the rules when updating a register, you can read how it must be by dragging the cursor on this button, because, a notification dialogue box will have appeared on the button and the rules will have seen here.</value>
+  </data>
+  <data name="frmkisi_ID" xml:space="preserve">
+    <value>@ID</value>
+  </data>
+  <data name="frmkisi_ilkiletisim" xml:space="preserve">
+    <value>@ilkiletisim</value>
+  </data>
+  <data name="frmkisi_isim" xml:space="preserve">
+    <value>@İsim</value>
+  </data>
+  <data name="frmkisi_kisi" xml:space="preserve">
+    <value>@kisi</value>
+  </data>
+  <data name="frmkisi_kisiler" xml:space="preserve">
+    <value>kisiler</value>
+  </data>
+  <data name="frmkisi_kitap" xml:space="preserve">
+    <value>kitap</value>
+  </data>
+  <data name="frmkisi_kitapid" xml:space="preserve">
+    <value>@kitapid</value>
+  </data>
+  <data name="frmkisi_label1" xml:space="preserve">
+    <value>Name and surname:</value>
+  </data>
+  <data name="frmkisi_label2" xml:space="preserve">
+    <value>Please select the ID which is belonged to the person: </value>
+  </data>
+  <data name="frmkisi_label21_acik" xml:space="preserve">
+    <value>Information on</value>
+  </data>
+  <data name="frmkisi_label21_kapali" xml:space="preserve">
+    <value>Information off</value>
+  </data>
+  <data name="frmkisi_label22" xml:space="preserve">
+    <value>Search person:</value>
+  </data>
+  <data name="frmkisi_label3" xml:space="preserve">
+    <value>Term:</value>
+  </data>
+  <data name="frmkisi_label4" xml:space="preserve">
+    <value>Phone number:</value>
+  </data>
+  <data name="frmkisi_label5" xml:space="preserve">
+    <value>Book name:</value>
+  </data>
+  <data name="frmkisi_label6" xml:space="preserve">
+    <value>Person Management</value>
+  </data>
+  <data name="frmkisi_label9" xml:space="preserve">
+    <value>Read the warning which will be visible when you drag the cursor on the left-bottom button before doing any process!</value>
+  </data>
+  <data name="frmkisi_linklabel1" xml:space="preserve">
+    <value>What's the wrong ID selection?</value>
+  </data>
+  <data name="frmkisi_linklabel2" xml:space="preserve">
+    <value>Book selection</value>
+  </data>
+  <data name="frmkisi_load_aldigikitabinismi" xml:space="preserve">
+    <value>Reserved book name</value>
+  </data>
+  <data name="frmkisi_load_isimsoyisim" xml:space="preserve">
+    <value>Name and Surname</value>
+  </data>
+  <data name="frmkisi_load_sinif" xml:space="preserve">
+    <value>Term</value>
+  </data>
+  <data name="frmkisi_no" xml:space="preserve">
+    <value>No</value>
+  </data>
+  <data name="frmkisi_sil_kesinlestir_mb_part1" xml:space="preserve">
+    <value>Are you sure to delete this person?</value>
+  </data>
+  <data name="frmkisi_sil_mb_part1" xml:space="preserve">
+    <value>The deletion process is successful.</value>
+  </data>
+  <data name="frmkisi_sil_yanlisislem_mb_part1" xml:space="preserve">
+    <value>Please follow the rules when deleting a book, you can read how it must be by dragging the cursor on this button, because, a notification dialogue box will have appeared on the button and the rules will have seen here.</value>
+  </data>
+  <data name="frmkisi_sinif" xml:space="preserve">
+    <value>@Sinif</value>
+  </data>
+  <data name="frmkisi_sinifeng" xml:space="preserve">
+    <value>@Sinifeng</value>
+  </data>
+  <data name="frmkisi_sinif_birinci" xml:space="preserve">
+    <value>1.Sınıf</value>
+  </data>
+  <data name="frmkisi_sinif_birinci_eng" xml:space="preserve">
+    <value>Freshman(1)</value>
+  </data>
+  <data name="frmkisi_sinif_dorduncu" xml:space="preserve">
+    <value>4.Sınıf</value>
+  </data>
+  <data name="frmkisi_sinif_dorduncu_eng" xml:space="preserve">
+    <value>Senior(4)</value>
+  </data>
+  <data name="frmkisi_sinif_hazirlik" xml:space="preserve">
+    <value>Hazırlık</value>
+  </data>
+  <data name="frmkisi_sinif_hazirlik_eng" xml:space="preserve">
+    <value>Preppy(H)</value>
+  </data>
+  <data name="frmkisi_sinif_ikinci" xml:space="preserve">
+    <value>2.Sınıf</value>
+  </data>
+  <data name="frmkisi_sinif_ikinci_eng" xml:space="preserve">
+    <value>Sophomore(2)</value>
+  </data>
+  <data name="frmkisi_sinif_ucuncu" xml:space="preserve">
+    <value>3.Sınıf</value>
+  </data>
+  <data name="frmkisi_sinif_ucuncu_eng" xml:space="preserve">
+    <value>Junior(3)</value>
+  </data>
+  <data name="frmkisi_sure" xml:space="preserve">
+    <value>@Sure</value>
+  </data>
+  <data name="frmkisi_tabpage3_text" xml:space="preserve">
+    <value>The people who will bring the book back</value>
+  </data>
+  <data name="frmkisi_tabpage6_text" xml:space="preserve">
+    <value>People Operation</value>
+  </data>
+  <data name="frmkisi_tahoma" xml:space="preserve">
+    <value>Tahoma</value>
+  </data>
+  <data name="frmkisi_telno" xml:space="preserve">
+    <value>@TelefonNumarasi</value>
+  </data>
+  <data name="frmkisi_teslimtarihi" xml:space="preserve">
+    <value>@TeslimTarihi</value>
+  </data>
+  <data name="frmkisi_teslimtarihieng" xml:space="preserve">
+    <value>@TeslimTarihieng</value>
+  </data>
+  <data name="frmkisi_tüm" xml:space="preserve">
+    <value>tüm</value>
+  </data>
+  <data name="frmkisi_varyokeng" xml:space="preserve">
+    <value>@varyokeng</value>
+  </data>
+  <data name="frmkisi_xyz_bes" xml:space="preserve">
+    <value>AldigiKitabinİsmi</value>
+  </data>
+  <data name="frmkisi_xyz_bir" xml:space="preserve">
+    <value>AldigiGununTarihi</value>
+  </data>
+  <data name="frmkisi_xyz_iki" xml:space="preserve">
+    <value>İsim</value>
+  </data>
+  <data name="frmkisi_xyz_on" xml:space="preserve">
+    <value>TelefonNumarasi</value>
+  </data>
+  <data name="frmkisi_xyz_onbir" xml:space="preserve">
+    <value>kitapid</value>
+  </data>
+  <data name="frmkisi_xyz_sekiz" xml:space="preserve">
+    <value>AldigiGununTarihi</value>
+  </data>
+  <data name="frmkisi_xyz_uc" xml:space="preserve">
+    <value>ID</value>
+  </data>
+  <data name="frmkisi_xyz_yedi" xml:space="preserve">
+    <value>AldigiKitabinİsmi</value>
+  </data>
+  <data name="frmkisi_yok" xml:space="preserve">
+    <value>Yok</value>
+  </data>
+  <data name="frmkitapara_bilg" xml:space="preserve">
+    <value>The process of selecting book is successful.</value>
+  </data>
+  <data name="frmkitapara_btnkitapsec_text" xml:space="preserve">
+    <value>Select Book</value>
+  </data>
+  <data name="frmkitapara_label1" xml:space="preserve">
+    <value>Please text the author's name or book name: </value>
+  </data>
+  <data name="frmkitapara_label2" xml:space="preserve">
+    <value>Please pay attention to whether all of the book's data is correct.</value>
+  </data>
+  <data name="frmkitapara_label3" xml:space="preserve">
+    <value>Book Selection Menu</value>
+  </data>
+  <data name="frmkitapara_label4" xml:space="preserve">
+    <value>The book name which is red means that anyone reserved the book.</value>
+  </data>
+  <data name="frmkitapara_linklabel1" xml:space="preserve">
+    <value>How can i select book?</value>
+  </data>
+  <data name="frmkitapara_linklabel2" xml:space="preserve">
+    <value>How can i search book?</value>
+  </data>
+  <data name="frmkitapara_soru" xml:space="preserve">
+    <value>You didn't select any book, are you sure to turn back? (Please click the book name and then click the button if you want to take any book</value>
+  </data>
+  <data name="frmkitapara_uyari" xml:space="preserve">
+    <value>Please click the book name which you want to take.</value>
+  </data>
+  <data name="frmkitapara_uyarı2" xml:space="preserve">
+    <value>The book name which is red means that this book isn't here, so,  you can not select the red book.</value>
+  </data>
+  <data name="frmkitaplik" xml:space="preserve">
+    <value>kitaplik</value>
+  </data>
+  <data name="frmkitapliksil_kesinles" xml:space="preserve">
+    <value>Are you sure to delete bookshelf name?</value>
+  </data>
+  <data name="frmkitaplik_ekle" xml:space="preserve">
+    <value>Add</value>
+  </data>
+  <data name="frmkitaplik_frmname" xml:space="preserve">
+    <value>Edit the Bookshelf</value>
+  </data>
+  <data name="frmkitaplik_kesinles" xml:space="preserve">
+    <value>Are you sure to add bookshelf name?</value>
+  </data>
+  <data name="frmkitaplik_mb1" xml:space="preserve">
+    <value>Adding bookshelf name is successful.</value>
+  </data>
+  <data name="frmkitaplik_sil" xml:space="preserve">
+    <value>Del</value>
+  </data>
+  <data name="frmkitaplik_Sil_2" xml:space="preserve">
+    <value>Deleting bookshelf name is successful.</value>
+  </data>
+  <data name="frmkural_formtext" xml:space="preserve">
+    <value>Rule of Reserving Book</value>
+  </data>
+  <data name="frmkural_groupbox_Text" xml:space="preserve">
+    <value>Rule List</value>
+  </data>
+  <data name="frmkural_label5" xml:space="preserve">
+    <value>1-) All of the responsibility which is related to the book is belong to the person who reserved the book. If the book is got harm which makes the book illegible, we demand the same book from the person who reserved the book.</value>
+  </data>
+  <data name="frmkural_label6" xml:space="preserve">
+    <value>2-) It is forbidden to take the theses out which is present at the inner part of the room!</value>
+  </data>
+  <data name="frmsifre_btn1" xml:space="preserve">
+    <value>Okey</value>
+  </data>
+  <data name="frmsifre_label1" xml:space="preserve">
+    <value>Enter mail address:</value>
+  </data>
+  <data name="frmsifre_label2" xml:space="preserve">
+    <value>Verification code:</value>
+  </data>
+  <data name="frmsifre_label6" xml:space="preserve">
+    <value>New password:</value>
+  </data>
+  <data name="frmtüm_formisim" xml:space="preserve">
+    <value>All of HUPT record</value>
+  </data>
+  <data name="frmtüm_headertextbes" xml:space="preserve">
+    <value>Phone Number</value>
+  </data>
+  <data name="frmtüm_headertextbir" xml:space="preserve">
+    <value>Term</value>
+  </data>
+  <data name="frmtüm_headertextdort" xml:space="preserve">
+    <value>Checked-out</value>
+  </data>
+  <data name="frmtüm_headertextiki" xml:space="preserve">
+    <value>Reserved Book Name</value>
+  </data>
+  <data name="frmtüm_headertextsifir" xml:space="preserve">
+    <value>Name and Surname</value>
+  </data>
+  <data name="frmtüm_headertextuc" xml:space="preserve">
+    <value>Date Reserved the Book</value>
+  </data>
+  <data name="frmtüm_label1" xml:space="preserve">
+    <value>Person or book can be searched: </value>
+  </data>
+  <data name="frm_asd" xml:space="preserve">
+    <value>If any language isn't selected, this number is stated count of all book which was registered.</value>
+  </data>
+  <data name="frm_bir" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="frm_dil" xml:space="preserve">
+    <value>Language:</value>
+  </data>
+  <data name="frm_dil_2" xml:space="preserve">
+    <value>Language: </value>
+  </data>
+  <data name="frm_dil_label20" xml:space="preserve">
+    <value>Book's ID which you click: </value>
+  </data>
+  <data name="frm_sifir" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="fsdads" xml:space="preserve">
+    <value>Please fill the box and pay attention that your's email address have to be "gmail" or "hotmail" extension.</value>
+  </data>
+  <data name="fsdagad" xml:space="preserve">
+    <value>We found your e-mail address.</value>
+  </data>
+  <data name="g" xml:space="preserve">
+    <value>@sifre</value>
+  </data>
+  <data name="gdfhgh" xml:space="preserve">
+    <value>Verification code for creating a new password</value>
+  </data>
+  <data name="gdsa" xml:space="preserve">
+    <value>Person's name who be registered in the system</value>
+  </data>
+  <data name="gelmesigerekentarih" xml:space="preserve">
+    <value>   | Gelmesi Gereken Tarih: (Geç bunu görünmesede olur)</value>
+  </data>
+  <data name="gfdafd" xml:space="preserve">
+    <value>Click to select the language</value>
+  </data>
+  <data name="gfdbsfd" xml:space="preserve">
+    <value>@yapilanislem</value>
+  </data>
+  <data name="gfddsa" xml:space="preserve">
+    <value>Please enter valid phone number</value>
+  </data>
+  <data name="gfdhdf" xml:space="preserve">
+    <value>Login is successful, verification code has been sent to your e-mail registered in the system.</value>
+  </data>
+  <data name="gfhfd" xml:space="preserve">
+    <value>No changes were made to the data.</value>
+  </data>
+  <data name="ggggg" xml:space="preserve">
+    <value>Date and time</value>
+  </data>
+  <data name="ghgf" xml:space="preserve">
+    <value>ID numbered book's delete process was registered successfully to Admin's usage records.</value>
+  </data>
+  <data name="ghsg" xml:space="preserve">
+    <value>We have successfully confirmed that you are, you can start the create a new password.</value>
+  </data>
+  <data name="ghyı" xml:space="preserve">
+    <value>Term name which be registered in the system</value>
+  </data>
+  <data name="güncelle" xml:space="preserve">
+    <value>güncelle</value>
+  </data>
+  <data name="h" xml:space="preserve">
+    <value>@mail</value>
+  </data>
+  <data name="Hata" xml:space="preserve">
+    <value>Error</value>
+  </data>
+  <data name="Hazırlık" xml:space="preserve">
+    <value>Hazırlık</value>
+  </data>
+  <data name="hddfh" xml:space="preserve">
+    <value>Please do not proceed to book selection without seeing the green icon that appears next to the boxes.</value>
+  </data>
+  <data name="hddhfdhd" xml:space="preserve">
+    <value>The book selection process cannot be started without filling the above fields.</value>
+  </data>
+  <data name="hfgd" xml:space="preserve">
+    <value> ID numbered person's update process was registered successfully to Admin's usage records.</value>
+  </data>
+  <data name="hgf" xml:space="preserve">
+    <value> ID numbered person's registration process was registered successfully to Admin's usage records.</value>
+  </data>
+  <data name="hgfhgf" xml:space="preserve">
+    <value>Book name which be registered in the system</value>
+  </data>
+  <data name="hrtrhyh" xml:space="preserve">
+    <value>Date of Issue which be registered in the system</value>
+  </data>
+  <data name="htrhg" xml:space="preserve">
+    <value>Person's surname who be registered in the system</value>
+  </data>
+  <data name="hyg" xml:space="preserve">
+    <value>4. You can update all kinds of your info which is registered on the system, if you have any info you don't want to update, you just click the update button without doing any change on them.</value>
+  </data>
+  <data name="hüpt" xml:space="preserve">
+    <value>HÜPT</value>
+  </data>
+  <data name="ID" xml:space="preserve">
+    <value> | ID: </value>
+  </data>
+  <data name="iletisimegecilmetarihi" xml:space="preserve">
+    <value> | Date contacted with person: </value>
+  </data>
+  <data name="islemdokum" xml:space="preserve">
+    <value>islemdokum</value>
+  </data>
+  <data name="islemdokumadm" xml:space="preserve">
+    <value>islemdokumadm</value>
+  </data>
+  <data name="j" xml:space="preserve">
+    <value>@ad</value>
+  </data>
+  <data name="jytjdf" xml:space="preserve">
+    <value>,creating a new password for you has been successfully completed.</value>
+  </data>
+  <data name="k" xml:space="preserve">
+    <value>@soyad</value>
+  </data>
+  <data name="kapali" xml:space="preserve">
+    <value>Close</value>
+  </data>
+  <data name="kapalii" xml:space="preserve">
+    <value>Kapalı</value>
+  </data>
+  <data name="kim" xml:space="preserve">
+    <value>Nobody</value>
+  </data>
+  <data name="kitabinoldugukisi" xml:space="preserve">
+    <value>  | The person who reserve the book: </value>
+  </data>
+  <data name="kitapsayisi" xml:space="preserve">
+    <value>Count of all books: </value>
+  </data>
+  <data name="kitapsüresiuzatmahakki" xml:space="preserve">
+    <value> The right of reserving book: </value>
+  </data>
+  <data name="klo" xml:space="preserve">
+    <value>2. When you update your info, please check internet connection.</value>
+  </data>
+  <data name="label28" xml:space="preserve">
+    <value>Do you want to search between two years:</value>
+  </data>
+  <data name="label2_frmtüm" xml:space="preserve">
+    <value>***If you couldn't read any part of this table, you can extend the headers to read the part. If you want to revert the table back, you can do that by clicking to the button right side.***</value>
+  </data>
+  <data name="label2_frmtüm_2" xml:space="preserve">
+    <value>***If you couldn't read any part of this table, you can extend the headers to read the part. If you want to revert the table back, you can do that by clicking to the button below.***</value>
+  </data>
+  <data name="mail" xml:space="preserve">
+    <value>@mail</value>
+  </data>
+  <data name="maill" xml:space="preserve">
+    <value>huptkutuphane@gmail.com</value>
+  </data>
+  <data name="mb_1" xml:space="preserve">
+    <value>Please close the admin authorization which is active.</value>
+  </data>
+  <data name="mb_2" xml:space="preserve">
+    <value>Are you sure to close to the admin authorization?</value>
+  </data>
+  <data name="mb_3" xml:space="preserve">
+    <value>Please get the admin authorization or login</value>
+  </data>
+  <data name="msg" xml:space="preserve">
+    <value>If you want to edit a person's or a book's info which is found on the program, you have to get the admin authorization. We don't want to leave the program's edit part open for all friends. Instead, we regulate the program for partial control of access, so, we set up a rule of getting admin authorization for those who wants to edit info.(all friends who activate own email can be an admin). Thanks to this, we can get a copy of all kinds of info edit which have done on the system.(On the main menu's linklabel which named "Admin's usage records", you can see all of system copy) and at a possible wrong edit, we can fix the wrong edit by looking at the copy.</value>
+  </data>
+  <data name="msg2" xml:space="preserve">
+    <value>Why get the admin authorization</value>
+  </data>
+  <data name="msg3" xml:space="preserve">
+    <value>About journal articles</value>
+  </data>
+  <data name="msg4" xml:space="preserve">
+    <value>Unfortunately, I couldn't give support to search journal articles because(It takes too long) there are lots of web site which is created to search journal articles. After you search content which is useful for you on these websites, you can find these content by looking at the program according to volume numbers' or serial numbers' of  journals which you searched, so, you can see whether the content is here.</value>
+  </data>
+  <data name="mssg" xml:space="preserve">
+    <value> ,single-use-only verification code for activating admin authorization: </value>
+  </data>
+  <data name="nasiyok" xml:space="preserve">
+    <value>KitabınBasımYılı</value>
+  </data>
+  <data name="nelabu" xml:space="preserve">
+    <value> | </value>
+  </data>
+  <data name="nokta" xml:space="preserve">
+    <value>.</value>
+  </data>
+  <data name="oledbcon" xml:space="preserve">
+    <value>Provider=Microsoft.ACE.Oledb.12.0;Data Source=kutuphane.accdb</value>
+  </data>
+  <data name="ooooo" xml:space="preserve">
+    <value>Nickname</value>
+  </data>
+  <data name="Other" xml:space="preserve">
+    <value>Diğer / Other</value>
+  </data>
+  <data name="prg_kapa" xml:space="preserve">
+    <value>Are you sure to close the program?</value>
+  </data>
+  <data name="Programagiris_dilsecim_Text" xml:space="preserve">
+    <value>Language Preference</value>
+  </data>
+  <data name="Programagiris_englishtoolstrip_Text" xml:space="preserve">
+    <value>English</value>
+  </data>
+  <data name="Programagiris_messageboxpart1_giris" xml:space="preserve">
+    <value>Login is successful</value>
+  </data>
+  <data name="Programagiris_messageboxpart1_hataligiris" xml:space="preserve">
+    <value>Username or password is wrong</value>
+  </data>
+  <data name="Programagiris_messageboxpart1_kutucukhata" xml:space="preserve">
+    <value>Please fill the boxes</value>
+  </data>
+  <data name="Programagiris_turkcetoolstrip_Text" xml:space="preserve">
+    <value>Türkçe</value>
+  </data>
+  <data name="Programagiris_日本語toolstrip_Text" xml:space="preserve">
+    <value>日本語</value>
+  </data>
+  <data name="Programgiris_Button1_Text" xml:space="preserve">
+    <value>Logout</value>
+  </data>
+  <data name="Programgiris_Button2_Text" xml:space="preserve">
+    <value>Login</value>
+  </data>
+  <data name="qqqqqq" xml:space="preserve">
+    <value>Mail</value>
+  </data>
+  <data name="rewrer" xml:space="preserve">
+    <value>Author's name who be registered in the system</value>
+  </data>
+  <data name="rtertte" xml:space="preserve">
+    <value>Language which be registered in the system</value>
+  </data>
+  <data name="sdsgsd" xml:space="preserve">
+    <value>Are you sure to turn back?</value>
+  </data>
+  <data name="sifir" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="sifree" xml:space="preserve">
+    <value>wundt1879</value>
+  </data>
+  <data name="sil" xml:space="preserve">
+    <value>sil</value>
+  </data>
+  <data name="smtp" xml:space="preserve">
+    <value>smtp.gmail.com</value>
+  </data>
+  <data name="Soru" xml:space="preserve">
+    <value>Question</value>
+  </data>
+  <data name="string_fe" xml:space="preserve">
+    <value>Henüz Teslim Edilmedi</value>
+  </data>
+  <data name="string_fe2" xml:space="preserve">
+    <value>Not Checked-out Yet</value>
+  </data>
+  <data name="string_iletisimegecilmedi" xml:space="preserve">
+    <value>İletişime Geçilmedi</value>
+  </data>
+  <data name="string_notcontacted" xml:space="preserve">
+    <value>Not Contacted Yet</value>
+  </data>
+  <data name="string_soruisareti" xml:space="preserve">
+    <value>?</value>
+  </data>
+  <data name="string_tik" xml:space="preserve">
+    <value>✔</value>
+  </data>
+  <data name="string_var" xml:space="preserve">
+    <value>Var</value>
+  </data>
+  <data name="string_yok" xml:space="preserve">
+    <value>Yok</value>
+  </data>
+  <data name="suitable" xml:space="preserve">
+    <value>Suitable</value>
+  </data>
+  <data name="tahir" xml:space="preserve">
+    <value>Tahir</value>
+  </data>
+  <data name="telefonnumarasi" xml:space="preserve">
+    <value> | Phone Number: </value>
+  </data>
+  <data name="tesekkür" xml:space="preserve">
+    <value>Thanks and Message</value>
+  </data>
+  <data name="tfg" xml:space="preserve">
+    <value>ABCÇDEFGĞHİJKLMNÖPRSŞTUÜVYZabcçdefgğhıijkmnöprsştuüvyz123456789</value>
+  </data>
+  <data name="trehdf" xml:space="preserve">
+    <value>Nickname which be registered in the system</value>
+  </data>
+  <data name="trfhtr" xml:space="preserve">
+    <value>Email name which be registered in the system</value>
+  </data>
+  <data name="tytfdh" xml:space="preserve">
+    <value>Verification code for updating your information</value>
+  </data>
+  <data name="tyutgfdd" xml:space="preserve">
+    <value> ,single-use-only verification code for updating your information: </value>
+  </data>
+  <data name="tyytjh" xml:space="preserve">
+    <value>ID numbered book's registration process was registered successfully to Admin's usage records.</value>
+  </data>
+  <data name="Türkçe" xml:space="preserve">
+    <value>Türkçe</value>
+  </data>
+  <data name="update" xml:space="preserve">
+    <value>Update</value>
+  </data>
+  <data name="Uyarı" xml:space="preserve">
+    <value>Warning</value>
+  </data>
+  <data name="verifi" xml:space="preserve">
+    <value>Verification code for admin authorization </value>
+  </data>
+  <data name="vfdbfd" xml:space="preserve">
+    <value>Number which be registered in the system</value>
+  </data>
+  <data name="xxx" xml:space="preserve">
+    <value>____________________</value>
+  </data>
+  <data name="yapıldı" xml:space="preserve">
+    <value>Yapıldı</value>
+  </data>
+  <data name="yapılmadı" xml:space="preserve">
+    <value>Yapılmadı</value>
+  </data>
+  <data name="ytrjgf" xml:space="preserve">
+    <value> ,single-use-only verification code for creating a new password: </value>
+  </data>
+  <data name="yuj" xml:space="preserve">
+    <value>Person name who be registered in the system</value>
+  </data>
+  <data name="yyyyyy" xml:space="preserve">
+    <value>___________</value>
+  </data>
+</root>

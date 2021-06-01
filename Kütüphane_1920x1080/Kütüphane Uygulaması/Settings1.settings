@@ -1,0 +1,57 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Kütüphane_Uygulaması" GeneratedClassName="Settings1">
+  <Profiles />
+  <Settings>
+    <Setting Name="dil" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Türkçe</Value>
+    </Setting>
+    <Setting Name="Yapıldı_1" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Yapılmadı_1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Yapılmadı</Value>
+    </Setting>
+    <Setting Name="Yapıldı_2" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Yapılmadı_2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Yapılmadı</Value>
+    </Setting>
+    <Setting Name="Yapıldı_3" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Yapılmadı_3" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Yapılmadı</Value>
+    </Setting>
+    <Setting Name="Yapıldı_4" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Yapılmadı_4" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Yapılmadı</Value>
+    </Setting>
+    <Setting Name="Yapıldı_5" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Yapılmadı_5" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Yapılmadı</Value>
+    </Setting>
+    <Setting Name="Yapıldı_6" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Yapılmadı_6" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Yapılmadı</Value>
+    </Setting>
+    <Setting Name="Yapıldı_7" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Yapılmadı_7" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Yapılmadı</Value>
+    </Setting>
+    <Setting Name="Yapıldı_8" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Yapılmadı_8" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Yapılmadı</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

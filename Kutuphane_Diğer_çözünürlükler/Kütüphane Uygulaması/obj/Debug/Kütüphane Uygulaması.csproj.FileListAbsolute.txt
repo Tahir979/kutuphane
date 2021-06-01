@@ -1,0 +1,1284 @@
+C:\Users\Tahir\Desktop\C# Kütüphane Uygulaması\C# - Kütüphane Programı\Kütüphane Uygulaması\bin\Debug\Kütüphane Uygulaması.exe.config
+C:\Users\Tahir\Desktop\C# Kütüphane Uygulaması\C# - Kütüphane Programı\Kütüphane Uygulaması\bin\Debug\Kütüphane Uygulaması.exe
+C:\Users\Tahir\Desktop\C# Kütüphane Uygulaması\C# - Kütüphane Programı\Kütüphane Uygulaması\bin\Debug\Kütüphane Uygulaması.pdb
+C:\Users\Tahir\Desktop\C# Kütüphane Uygulaması\C# - Kütüphane Programı\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.csprojAssemblyReference.cache
+C:\Users\Tahir\Desktop\C# Kütüphane Uygulaması\C# - Kütüphane Programı\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm2.resources
+C:\Users\Tahir\Desktop\C# Kütüphane Uygulaması\C# - Kütüphane Programı\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm8.resources
+C:\Users\Tahir\Desktop\C# Kütüphane Uygulaması\C# - Kütüphane Programı\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.FormAmac.resources
+C:\Users\Tahir\Desktop\C# Kütüphane Uygulaması\C# - Kütüphane Programı\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Formarama.resources
+C:\Users\Tahir\Desktop\C# Kütüphane Uygulaması\C# - Kütüphane Programı\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.FormDüzen.resources
+C:\Users\Tahir\Desktop\C# Kütüphane Uygulaması\C# - Kütüphane Programı\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.FormKural.resources
+C:\Users\Tahir\Desktop\C# Kütüphane Uygulaması\C# - Kütüphane Programı\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm5.resources
+C:\Users\Tahir\Desktop\C# Kütüphane Uygulaması\C# - Kütüphane Programı\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm7.resources
+C:\Users\Tahir\Desktop\C# Kütüphane Uygulaması\C# - Kütüphane Programı\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm3.resources
+C:\Users\Tahir\Desktop\C# Kütüphane Uygulaması\C# - Kütüphane Programı\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm1.resources
+C:\Users\Tahir\Desktop\C# Kütüphane Uygulaması\C# - Kütüphane Programı\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Properties.Resources.resources
+C:\Users\Tahir\Desktop\C# Kütüphane Uygulaması\C# - Kütüphane Programı\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.csproj.GenerateResource.cache
+C:\Users\Tahir\Desktop\C# Kütüphane Uygulaması\C# - Kütüphane Programı\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\Tahir\Desktop\C# Kütüphane Uygulaması\C# - Kütüphane Programı\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.exe
+C:\Users\Tahir\Desktop\C# Kütüphane Uygulaması\C# - Kütüphane Programı\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.pdb
+C:\Users\Tahir\Desktop\C# - Kütüphane Programı - SQL işlemi görüyor\Kütüphane Uygulaması\bin\Debug\Kütüphane Uygulaması.exe.config
+C:\Users\Tahir\Desktop\C# - Kütüphane Programı - SQL işlemi görüyor\Kütüphane Uygulaması\bin\Debug\Kütüphane Uygulaması.exe
+C:\Users\Tahir\Desktop\C# - Kütüphane Programı - SQL işlemi görüyor\Kütüphane Uygulaması\bin\Debug\Kütüphane Uygulaması.pdb
+C:\Users\Tahir\Desktop\C# - Kütüphane Programı - SQL işlemi görüyor\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.csprojAssemblyReference.cache
+C:\Users\Tahir\Desktop\C# - Kütüphane Programı - SQL işlemi görüyor\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm2.resources
+C:\Users\Tahir\Desktop\C# - Kütüphane Programı - SQL işlemi görüyor\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.FormAmac.resources
+C:\Users\Tahir\Desktop\C# - Kütüphane Programı - SQL işlemi görüyor\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Formarama.resources
+C:\Users\Tahir\Desktop\C# - Kütüphane Programı - SQL işlemi görüyor\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.FormDüzen.resources
+C:\Users\Tahir\Desktop\C# - Kütüphane Programı - SQL işlemi görüyor\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.FormKural.resources
+C:\Users\Tahir\Desktop\C# - Kütüphane Programı - SQL işlemi görüyor\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm5.resources
+C:\Users\Tahir\Desktop\C# - Kütüphane Programı - SQL işlemi görüyor\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm7.resources
+C:\Users\Tahir\Desktop\C# - Kütüphane Programı - SQL işlemi görüyor\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm3.resources
+C:\Users\Tahir\Desktop\C# - Kütüphane Programı - SQL işlemi görüyor\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm1.resources
+C:\Users\Tahir\Desktop\C# - Kütüphane Programı - SQL işlemi görüyor\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Properties.Resources.resources
+C:\Users\Tahir\Desktop\C# - Kütüphane Programı - SQL işlemi görüyor\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.csproj.GenerateResource.cache
+C:\Users\Tahir\Desktop\C# - Kütüphane Programı - SQL işlemi görüyor\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\Tahir\Desktop\C# - Kütüphane Programı - SQL işlemi görüyor\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.exe
+C:\Users\Tahir\Desktop\C# - Kütüphane Programı - SQL işlemi görüyor\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.pdb
+C:\Users\Tahir\Desktop\C# Kütüphane Uygulaması\C# - Kütüphane Programı - SQL işlemi görmüş\Kütüphane Uygulaması\bin\Debug\Kütüphane Uygulaması.exe.config
+C:\Users\Tahir\Desktop\C# Kütüphane Uygulaması\C# - Kütüphane Programı - SQL işlemi görmüş\Kütüphane Uygulaması\bin\Debug\Kütüphane Uygulaması.exe
+C:\Users\Tahir\Desktop\C# Kütüphane Uygulaması\C# - Kütüphane Programı - SQL işlemi görmüş\Kütüphane Uygulaması\bin\Debug\Kütüphane Uygulaması.pdb
+C:\Users\Tahir\Desktop\C# Kütüphane Uygulaması\C# - Kütüphane Programı - SQL işlemi görmüş\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.csprojAssemblyReference.cache
+C:\Users\Tahir\Desktop\C# Kütüphane Uygulaması\C# - Kütüphane Programı - SQL işlemi görmüş\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm2.resources
+C:\Users\Tahir\Desktop\C# Kütüphane Uygulaması\C# - Kütüphane Programı - SQL işlemi görmüş\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.FormAmac.resources
+C:\Users\Tahir\Desktop\C# Kütüphane Uygulaması\C# - Kütüphane Programı - SQL işlemi görmüş\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Formarama.resources
+C:\Users\Tahir\Desktop\C# Kütüphane Uygulaması\C# - Kütüphane Programı - SQL işlemi görmüş\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.FormDüzen.resources
+C:\Users\Tahir\Desktop\C# Kütüphane Uygulaması\C# - Kütüphane Programı - SQL işlemi görmüş\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.FormKural.resources
+C:\Users\Tahir\Desktop\C# Kütüphane Uygulaması\C# - Kütüphane Programı - SQL işlemi görmüş\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm5.resources
+C:\Users\Tahir\Desktop\C# Kütüphane Uygulaması\C# - Kütüphane Programı - SQL işlemi görmüş\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm7.resources
+C:\Users\Tahir\Desktop\C# Kütüphane Uygulaması\C# - Kütüphane Programı - SQL işlemi görmüş\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm3.resources
+C:\Users\Tahir\Desktop\C# Kütüphane Uygulaması\C# - Kütüphane Programı - SQL işlemi görmüş\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm1.resources
+C:\Users\Tahir\Desktop\C# Kütüphane Uygulaması\C# - Kütüphane Programı - SQL işlemi görmüş\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Properties.Resources.resources
+C:\Users\Tahir\Desktop\C# Kütüphane Uygulaması\C# - Kütüphane Programı - SQL işlemi görmüş\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.csproj.GenerateResource.cache
+C:\Users\Tahir\Desktop\C# Kütüphane Uygulaması\C# - Kütüphane Programı - SQL işlemi görmüş\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\Tahir\Desktop\C# Kütüphane Uygulaması\C# - Kütüphane Programı - SQL işlemi görmüş\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.exe
+C:\Users\Tahir\Desktop\C# Kütüphane Uygulaması\C# - Kütüphane Programı - SQL işlemi görmüş\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.pdb
+G:\C# Kütüphane Uygulaması\C# - Kütüphane Programı - SQL işlemi görmüş - yedek\Kütüphane Uygulaması\bin\Debug\Kütüphane Uygulaması.exe.config
+G:\C# Kütüphane Uygulaması\C# - Kütüphane Programı - SQL işlemi görmüş - yedek\Kütüphane Uygulaması\bin\Debug\Kütüphane Uygulaması.exe
+G:\C# Kütüphane Uygulaması\C# - Kütüphane Programı - SQL işlemi görmüş - yedek\Kütüphane Uygulaması\bin\Debug\Kütüphane Uygulaması.pdb
+G:\C# Kütüphane Uygulaması\C# - Kütüphane Programı - SQL işlemi görmüş - yedek\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.csprojAssemblyReference.cache
+G:\C# Kütüphane Uygulaması\C# - Kütüphane Programı - SQL işlemi görmüş - yedek\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm2.resources
+G:\C# Kütüphane Uygulaması\C# - Kütüphane Programı - SQL işlemi görmüş - yedek\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.FormAmac.resources
+G:\C# Kütüphane Uygulaması\C# - Kütüphane Programı - SQL işlemi görmüş - yedek\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Formarama.resources
+G:\C# Kütüphane Uygulaması\C# - Kütüphane Programı - SQL işlemi görmüş - yedek\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.FormDüzen.resources
+G:\C# Kütüphane Uygulaması\C# - Kütüphane Programı - SQL işlemi görmüş - yedek\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.FormKural.resources
+G:\C# Kütüphane Uygulaması\C# - Kütüphane Programı - SQL işlemi görmüş - yedek\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm5.resources
+G:\C# Kütüphane Uygulaması\C# - Kütüphane Programı - SQL işlemi görmüş - yedek\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm7.resources
+G:\C# Kütüphane Uygulaması\C# - Kütüphane Programı - SQL işlemi görmüş - yedek\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm3.resources
+G:\C# Kütüphane Uygulaması\C# - Kütüphane Programı - SQL işlemi görmüş - yedek\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm1.resources
+G:\C# Kütüphane Uygulaması\C# - Kütüphane Programı - SQL işlemi görmüş - yedek\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Properties.Resources.resources
+G:\C# Kütüphane Uygulaması\C# - Kütüphane Programı - SQL işlemi görmüş - yedek\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.csproj.GenerateResource.cache
+G:\C# Kütüphane Uygulaması\C# - Kütüphane Programı - SQL işlemi görmüş - yedek\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.csproj.CoreCompileInputs.cache
+G:\C# Kütüphane Uygulaması\C# - Kütüphane Programı - SQL işlemi görmüş - yedek\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.exe
+G:\C# Kütüphane Uygulaması\C# - Kütüphane Programı - SQL işlemi görmüş - yedek\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.pdb
+C:\Users\Tahir\Desktop\Kütüphane Programı\Kütüphane Uygulaması\bin\Debug\Kütüphane Uygulaması.exe.config
+C:\Users\Tahir\Desktop\Kütüphane Programı\Kütüphane Uygulaması\bin\Debug\Kütüphane Uygulaması.exe
+C:\Users\Tahir\Desktop\Kütüphane Programı\Kütüphane Uygulaması\bin\Debug\Kütüphane Uygulaması.pdb
+C:\Users\Tahir\Desktop\Kütüphane Programı\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.csprojAssemblyReference.cache
+C:\Users\Tahir\Desktop\Kütüphane Programı\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm2.resources
+C:\Users\Tahir\Desktop\Kütüphane Programı\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.FormAmac.resources
+C:\Users\Tahir\Desktop\Kütüphane Programı\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Formarama.resources
+C:\Users\Tahir\Desktop\Kütüphane Programı\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.FormDüzen.resources
+C:\Users\Tahir\Desktop\Kütüphane Programı\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.FormKural.resources
+C:\Users\Tahir\Desktop\Kütüphane Programı\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm7.resources
+C:\Users\Tahir\Desktop\Kütüphane Programı\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm3.resources
+C:\Users\Tahir\Desktop\Kütüphane Programı\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm1.resources
+C:\Users\Tahir\Desktop\Kütüphane Programı\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Properties.Resources.resources
+C:\Users\Tahir\Desktop\Kütüphane Programı\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.csproj.GenerateResource.cache
+C:\Users\Tahir\Desktop\Kütüphane Programı\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\Tahir\Desktop\Kütüphane Programı\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.exe
+C:\Users\Tahir\Desktop\Kütüphane Programı\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.pdb
+C:\Users\alp\Desktop\Kütüphane Programı_2\Kütüphane Uygulaması\bin\Debug\Kütüphane Uygulaması.exe.config
+C:\Users\alp\Desktop\Kütüphane Programı_2\Kütüphane Uygulaması\bin\Debug\Kütüphane Uygulaması.exe
+C:\Users\alp\Desktop\Kütüphane Programı_2\Kütüphane Uygulaması\bin\Debug\Kütüphane Uygulaması.pdb
+C:\Users\alp\Desktop\Kütüphane Programı_2\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.csprojAssemblyReference.cache
+C:\Users\alp\Desktop\Kütüphane Programı_2\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm2.resources
+C:\Users\alp\Desktop\Kütüphane Programı_2\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.FormAmac.resources
+C:\Users\alp\Desktop\Kütüphane Programı_2\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Formarama.resources
+C:\Users\alp\Desktop\Kütüphane Programı_2\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.FormDüzen.resources
+C:\Users\alp\Desktop\Kütüphane Programı_2\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.FormKural.resources
+C:\Users\alp\Desktop\Kütüphane Programı_2\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm7.resources
+C:\Users\alp\Desktop\Kütüphane Programı_2\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm3.resources
+C:\Users\alp\Desktop\Kütüphane Programı_2\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm1.resources
+C:\Users\alp\Desktop\Kütüphane Programı_2\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Properties.Resources.resources
+C:\Users\alp\Desktop\Kütüphane Programı_2\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.csproj.GenerateResource.cache
+C:\Users\alp\Desktop\Kütüphane Programı_2\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\alp\Desktop\Kütüphane Programı_2\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.exe
+C:\Users\alp\Desktop\Kütüphane Programı_2\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.pdb
+C:\Users\Tahir\Desktop\Kütüphane Programı\Program\Kütüphane Uygulaması\bin\Debug\Kütüphane Uygulaması.exe.config
+C:\Users\Tahir\Desktop\Kütüphane Programı\Program\Kütüphane Uygulaması\bin\Debug\Kütüphane Uygulaması.exe
+C:\Users\Tahir\Desktop\Kütüphane Programı\Program\Kütüphane Uygulaması\bin\Debug\Kütüphane Uygulaması.pdb
+C:\Users\Tahir\Desktop\Kütüphane Programı\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.csprojAssemblyReference.cache
+C:\Users\Tahir\Desktop\Kütüphane Programı\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm2.resources
+C:\Users\Tahir\Desktop\Kütüphane Programı\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.FormAmac.resources
+C:\Users\Tahir\Desktop\Kütüphane Programı\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Formarama.resources
+C:\Users\Tahir\Desktop\Kütüphane Programı\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.FormDüzen.resources
+C:\Users\Tahir\Desktop\Kütüphane Programı\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.FormKural.resources
+C:\Users\Tahir\Desktop\Kütüphane Programı\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm7.resources
+C:\Users\Tahir\Desktop\Kütüphane Programı\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm3.resources
+C:\Users\Tahir\Desktop\Kütüphane Programı\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm1.resources
+C:\Users\Tahir\Desktop\Kütüphane Programı\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Properties.Resources.resources
+C:\Users\Tahir\Desktop\Kütüphane Programı\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.csproj.GenerateResource.cache
+C:\Users\Tahir\Desktop\Kütüphane Programı\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\Tahir\Desktop\Kütüphane Programı\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.exe
+C:\Users\Tahir\Desktop\Kütüphane Programı\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.pdb
+C:\Users\Tahir\Desktop\Program\Kütüphane Uygulaması\bin\Debug\Kütüphane Uygulaması.exe.config
+C:\Users\Tahir\Desktop\Program\Kütüphane Uygulaması\bin\Debug\Kütüphane Uygulaması.exe
+C:\Users\Tahir\Desktop\Program\Kütüphane Uygulaması\bin\Debug\Kütüphane Uygulaması.pdb
+C:\Users\Tahir\Desktop\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.csprojAssemblyReference.cache
+C:\Users\Tahir\Desktop\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm2.resources
+C:\Users\Tahir\Desktop\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.FormAmac.resources
+C:\Users\Tahir\Desktop\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Formarama.resources
+C:\Users\Tahir\Desktop\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.FormDüzen.resources
+C:\Users\Tahir\Desktop\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.FormKural.resources
+C:\Users\Tahir\Desktop\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm7.resources
+C:\Users\Tahir\Desktop\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm3.resources
+C:\Users\Tahir\Desktop\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm1.resources
+C:\Users\Tahir\Desktop\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Properties.Resources.resources
+C:\Users\Tahir\Desktop\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.csproj.GenerateResource.cache
+C:\Users\Tahir\Desktop\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\Tahir\Desktop\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.exe
+C:\Users\Tahir\Desktop\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.pdb
+C:\Users\alp\Desktop\Program\Kütüphane Uygulaması\bin\Debug\Kütüphane Uygulaması.exe.config
+C:\Users\alp\Desktop\Program\Kütüphane Uygulaması\bin\Debug\Kütüphane Uygulaması.exe
+C:\Users\alp\Desktop\Program\Kütüphane Uygulaması\bin\Debug\Kütüphane Uygulaması.pdb
+C:\Users\alp\Desktop\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.csprojAssemblyReference.cache
+C:\Users\alp\Desktop\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm2.resources
+C:\Users\alp\Desktop\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.FormAmac.resources
+C:\Users\alp\Desktop\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Formarama.resources
+C:\Users\alp\Desktop\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.FormDüzen.resources
+C:\Users\alp\Desktop\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.FormKural.resources
+C:\Users\alp\Desktop\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm7.resources
+C:\Users\alp\Desktop\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm3.resources
+C:\Users\alp\Desktop\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm1.resources
+C:\Users\alp\Desktop\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Properties.Resources.resources
+C:\Users\alp\Desktop\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.csproj.GenerateResource.cache
+C:\Users\alp\Desktop\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\alp\Desktop\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.exe
+C:\Users\alp\Desktop\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.pdb
+C:\Users\Tahir\Downloads\Program_inc\Program\Kütüphane Uygulaması\bin\Debug\Kütüphane Uygulaması.exe.config
+C:\Users\Tahir\Downloads\Program_inc\Program\Kütüphane Uygulaması\bin\Debug\Kütüphane Uygulaması.exe
+C:\Users\Tahir\Downloads\Program_inc\Program\Kütüphane Uygulaması\bin\Debug\Kütüphane Uygulaması.pdb
+C:\Users\Tahir\Downloads\Program_inc\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.csprojAssemblyReference.cache
+C:\Users\Tahir\Downloads\Program_inc\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm2.resources
+C:\Users\Tahir\Downloads\Program_inc\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.FormAmac.resources
+C:\Users\Tahir\Downloads\Program_inc\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Formarama.resources
+C:\Users\Tahir\Downloads\Program_inc\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.FormDüzen.resources
+C:\Users\Tahir\Downloads\Program_inc\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.FormKural.resources
+C:\Users\Tahir\Downloads\Program_inc\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm7.resources
+C:\Users\Tahir\Downloads\Program_inc\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm3.resources
+C:\Users\Tahir\Downloads\Program_inc\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm1.resources
+C:\Users\Tahir\Downloads\Program_inc\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Properties.Resources.resources
+C:\Users\Tahir\Downloads\Program_inc\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.csproj.GenerateResource.cache
+C:\Users\Tahir\Downloads\Program_inc\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\Tahir\Downloads\Program_inc\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.exe
+C:\Users\Tahir\Downloads\Program_inc\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.pdb
+C:\Users\Tahir\Desktop\Program yedek\Kütüphane Uygulaması\bin\Debug\Kütüphane Uygulaması.exe.config
+C:\Users\Tahir\Desktop\Program yedek\Kütüphane Uygulaması\bin\Debug\Kütüphane Uygulaması.exe
+C:\Users\Tahir\Desktop\Program yedek\Kütüphane Uygulaması\bin\Debug\Kütüphane Uygulaması.pdb
+C:\Users\Tahir\Desktop\Program yedek\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.csprojAssemblyReference.cache
+C:\Users\Tahir\Desktop\Program yedek\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm2.resources
+C:\Users\Tahir\Desktop\Program yedek\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.FormAmac.resources
+C:\Users\Tahir\Desktop\Program yedek\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Formarama.resources
+C:\Users\Tahir\Desktop\Program yedek\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.FormDüzen.resources
+C:\Users\Tahir\Desktop\Program yedek\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.FormKural.resources
+C:\Users\Tahir\Desktop\Program yedek\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm7.resources
+C:\Users\Tahir\Desktop\Program yedek\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm3.resources
+C:\Users\Tahir\Desktop\Program yedek\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm1.resources
+C:\Users\Tahir\Desktop\Program yedek\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Properties.Resources.resources
+C:\Users\Tahir\Desktop\Program yedek\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.csproj.GenerateResource.cache
+C:\Users\Tahir\Desktop\Program yedek\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\Tahir\Desktop\Program yedek\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.exe
+C:\Users\Tahir\Desktop\Program yedek\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.pdb
+C:\Users\alp\Desktop\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\bin\Debug\Kütüphane Uygulaması.exe.config
+C:\Users\alp\Desktop\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\bin\Debug\Kütüphane Uygulaması.exe
+C:\Users\alp\Desktop\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\bin\Debug\Kütüphane Uygulaması.pdb
+C:\Users\alp\Desktop\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.csprojAssemblyReference.cache
+C:\Users\alp\Desktop\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm2.resources
+C:\Users\alp\Desktop\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.FormAmac.resources
+C:\Users\alp\Desktop\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Formarama.resources
+C:\Users\alp\Desktop\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.FormDüzen.resources
+C:\Users\alp\Desktop\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.FormKural.resources
+C:\Users\alp\Desktop\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm7.resources
+C:\Users\alp\Desktop\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm3.resources
+C:\Users\alp\Desktop\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm1.resources
+C:\Users\alp\Desktop\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Properties.Resources.resources
+C:\Users\alp\Desktop\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.csproj.GenerateResource.cache
+C:\Users\alp\Desktop\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\alp\Desktop\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.exe
+C:\Users\alp\Desktop\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.pdb
+C:\Users\Tahir\Downloads\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\bin\Debug\Kütüphane Uygulaması.exe.config
+C:\Users\Tahir\Downloads\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\bin\Debug\Kütüphane Uygulaması.exe
+C:\Users\Tahir\Downloads\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\bin\Debug\Kütüphane Uygulaması.pdb
+C:\Users\Tahir\Downloads\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.csprojAssemblyReference.cache
+C:\Users\Tahir\Downloads\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm2.resources
+C:\Users\Tahir\Downloads\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.FormAmac.resources
+C:\Users\Tahir\Downloads\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Formarama.resources
+C:\Users\Tahir\Downloads\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.FormDüzen.resources
+C:\Users\Tahir\Downloads\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.FormKural.resources
+C:\Users\Tahir\Downloads\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm7.resources
+C:\Users\Tahir\Downloads\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm3.resources
+C:\Users\Tahir\Downloads\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm1.resources
+C:\Users\Tahir\Downloads\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Properties.Resources.resources
+C:\Users\Tahir\Downloads\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.csproj.GenerateResource.cache
+C:\Users\Tahir\Downloads\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\Tahir\Downloads\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.exe
+C:\Users\Tahir\Downloads\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.pdb
+C:\Users\Tahir\Downloads\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Formtesekkür.resources
+C:\Users\Erdem\Desktop\Tahir\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\bin\Debug\Kütüphane Uygulaması.exe.config
+C:\Users\Erdem\Desktop\Tahir\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\bin\Debug\Kütüphane Uygulaması.exe
+C:\Users\Erdem\Desktop\Tahir\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\bin\Debug\Kütüphane Uygulaması.pdb
+C:\Users\Erdem\Desktop\Tahir\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.csprojAssemblyReference.cache
+C:\Users\Erdem\Desktop\Tahir\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm2.resources
+C:\Users\Erdem\Desktop\Tahir\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.FormAmac.resources
+C:\Users\Erdem\Desktop\Tahir\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Formarama.resources
+C:\Users\Erdem\Desktop\Tahir\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.FormDüzen.resources
+C:\Users\Erdem\Desktop\Tahir\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.FormKural.resources
+C:\Users\Erdem\Desktop\Tahir\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Formtesekkür.resources
+C:\Users\Erdem\Desktop\Tahir\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm7.resources
+C:\Users\Erdem\Desktop\Tahir\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm3.resources
+C:\Users\Erdem\Desktop\Tahir\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm1.resources
+C:\Users\Erdem\Desktop\Tahir\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Properties.Resources.resources
+C:\Users\Erdem\Desktop\Tahir\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.csproj.GenerateResource.cache
+C:\Users\Erdem\Desktop\Tahir\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.exe
+C:\Users\Erdem\Desktop\Tahir\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.pdb
+C:\Users\Tahir\Desktop\Kütüphane Programı\Tahir\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\bin\Debug\Kütüphane Uygulaması.exe.config
+C:\Users\Tahir\Desktop\Kütüphane Programı\Tahir\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\bin\Debug\Kütüphane Uygulaması.exe
+C:\Users\Tahir\Desktop\Kütüphane Programı\Tahir\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\bin\Debug\Kütüphane Uygulaması.pdb
+C:\Users\Tahir\Desktop\Kütüphane Programı\Tahir\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.csprojAssemblyReference.cache
+C:\Users\Tahir\Desktop\Kütüphane Programı\Tahir\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm2.resources
+C:\Users\Tahir\Desktop\Kütüphane Programı\Tahir\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.FormAmac.resources
+C:\Users\Tahir\Desktop\Kütüphane Programı\Tahir\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Formarama.resources
+C:\Users\Tahir\Desktop\Kütüphane Programı\Tahir\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.FormDüzen.resources
+C:\Users\Tahir\Desktop\Kütüphane Programı\Tahir\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.FormKural.resources
+C:\Users\Tahir\Desktop\Kütüphane Programı\Tahir\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Formtesekkür.resources
+C:\Users\Tahir\Desktop\Kütüphane Programı\Tahir\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm7.resources
+C:\Users\Tahir\Desktop\Kütüphane Programı\Tahir\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm3.resources
+C:\Users\Tahir\Desktop\Kütüphane Programı\Tahir\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm1.resources
+C:\Users\Tahir\Desktop\Kütüphane Programı\Tahir\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Properties.Resources.resources
+C:\Users\Tahir\Desktop\Kütüphane Programı\Tahir\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.csproj.GenerateResource.cache
+C:\Users\Tahir\Desktop\Kütüphane Programı\Tahir\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\Tahir\Desktop\Kütüphane Programı\Tahir\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.exe
+C:\Users\Tahir\Desktop\Kütüphane Programı\Tahir\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.pdb
+C:\Users\Tahir\Desktop\Daha sonra\Tahir\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\bin\Debug\Kütüphane Uygulaması.exe.config
+C:\Users\Tahir\Desktop\Daha sonra\Tahir\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\bin\Debug\Kütüphane Uygulaması.exe
+C:\Users\Tahir\Desktop\Daha sonra\Tahir\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\bin\Debug\Kütüphane Uygulaması.pdb
+C:\Users\Tahir\Desktop\Daha sonra\Tahir\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.csprojAssemblyReference.cache
+C:\Users\Tahir\Desktop\Daha sonra\Tahir\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm2.resources
+C:\Users\Tahir\Desktop\Daha sonra\Tahir\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.FormAmac.resources
+C:\Users\Tahir\Desktop\Daha sonra\Tahir\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Formarama.resources
+C:\Users\Tahir\Desktop\Daha sonra\Tahir\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.FormDüzen.resources
+C:\Users\Tahir\Desktop\Daha sonra\Tahir\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Formkitaplık.resources
+C:\Users\Tahir\Desktop\Daha sonra\Tahir\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.FormKural.resources
+C:\Users\Tahir\Desktop\Daha sonra\Tahir\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm7.resources
+C:\Users\Tahir\Desktop\Daha sonra\Tahir\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm3.resources
+C:\Users\Tahir\Desktop\Daha sonra\Tahir\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm1.resources
+C:\Users\Tahir\Desktop\Daha sonra\Tahir\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Properties.Resources.resources
+C:\Users\Tahir\Desktop\Daha sonra\Tahir\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.csproj.GenerateResource.cache
+C:\Users\Tahir\Desktop\Daha sonra\Tahir\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\Tahir\Desktop\Daha sonra\Tahir\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.exe
+C:\Users\Tahir\Desktop\Daha sonra\Tahir\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.pdb
+C:\Users\Tahir\Desktop\Tahir\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\bin\Debug\Kütüphane Uygulaması.exe.config
+C:\Users\Tahir\Desktop\Tahir\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\bin\Debug\Kütüphane Uygulaması.exe
+C:\Users\Tahir\Desktop\Tahir\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\bin\Debug\Kütüphane Uygulaması.pdb
+C:\Users\Tahir\Desktop\Tahir\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.csprojAssemblyReference.cache
+C:\Users\Tahir\Desktop\Tahir\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm2.resources
+C:\Users\Tahir\Desktop\Tahir\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.FormAmac.resources
+C:\Users\Tahir\Desktop\Tahir\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Formarama.resources
+C:\Users\Tahir\Desktop\Tahir\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.FormDüzen.resources
+C:\Users\Tahir\Desktop\Tahir\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Formkitaplık.resources
+C:\Users\Tahir\Desktop\Tahir\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.FormKural.resources
+C:\Users\Tahir\Desktop\Tahir\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Formtesekkür.resources
+C:\Users\Tahir\Desktop\Tahir\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm7.resources
+C:\Users\Tahir\Desktop\Tahir\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm3.resources
+C:\Users\Tahir\Desktop\Tahir\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm1.resources
+C:\Users\Tahir\Desktop\Tahir\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Properties.Resources.resources
+C:\Users\Tahir\Desktop\Tahir\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.csproj.GenerateResource.cache
+C:\Users\Tahir\Desktop\Tahir\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\Tahir\Desktop\Tahir\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.exe
+C:\Users\Tahir\Desktop\Tahir\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.pdb
+C:\Users\Tahir\Desktop\Kütüphane Programı\Tahir_güncel\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\bin\Debug\Kütüphane Uygulaması.exe.config
+C:\Users\Tahir\Desktop\Kütüphane Programı\Tahir_güncel\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\bin\Debug\Kütüphane Uygulaması.exe
+C:\Users\Tahir\Desktop\Kütüphane Programı\Tahir_güncel\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\bin\Debug\Kütüphane Uygulaması.pdb
+C:\Users\Tahir\Desktop\Kütüphane Programı\Tahir_güncel\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.csprojAssemblyReference.cache
+C:\Users\Tahir\Desktop\Kütüphane Programı\Tahir_güncel\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm2.resources
+C:\Users\Tahir\Desktop\Kütüphane Programı\Tahir_güncel\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.FormAmac.resources
+C:\Users\Tahir\Desktop\Kütüphane Programı\Tahir_güncel\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Formarama.resources
+C:\Users\Tahir\Desktop\Kütüphane Programı\Tahir_güncel\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.FormDüzen.resources
+C:\Users\Tahir\Desktop\Kütüphane Programı\Tahir_güncel\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Formkitaplık.resources
+C:\Users\Tahir\Desktop\Kütüphane Programı\Tahir_güncel\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.FormKural.resources
+C:\Users\Tahir\Desktop\Kütüphane Programı\Tahir_güncel\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm7.resources
+C:\Users\Tahir\Desktop\Kütüphane Programı\Tahir_güncel\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm3.resources
+C:\Users\Tahir\Desktop\Kütüphane Programı\Tahir_güncel\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm1.resources
+C:\Users\Tahir\Desktop\Kütüphane Programı\Tahir_güncel\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Properties.Resources.resources
+C:\Users\Tahir\Desktop\Kütüphane Programı\Tahir_güncel\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.csproj.GenerateResource.cache
+C:\Users\Tahir\Desktop\Kütüphane Programı\Tahir_güncel\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\Tahir\Desktop\Kütüphane Programı\Tahir_güncel\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.exe
+C:\Users\Tahir\Desktop\Kütüphane Programı\Tahir_güncel\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.pdb
+F:\Tahir_güncel\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\bin\Debug\Kütüphane Uygulaması.exe.config
+F:\Tahir_güncel\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\bin\Debug\Kütüphane Uygulaması.exe
+F:\Tahir_güncel\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\bin\Debug\Kütüphane Uygulaması.pdb
+F:\Tahir_güncel\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.csprojAssemblyReference.cache
+F:\Tahir_güncel\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm2.resources
+F:\Tahir_güncel\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.FormAmac.resources
+F:\Tahir_güncel\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Formarama.resources
+F:\Tahir_güncel\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.FormDüzen.resources
+F:\Tahir_güncel\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Formkitaplık.resources
+F:\Tahir_güncel\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.FormKural.resources
+F:\Tahir_güncel\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm7.resources
+F:\Tahir_güncel\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm3.resources
+F:\Tahir_güncel\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm1.resources
+F:\Tahir_güncel\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Properties.Resources.resources
+F:\Tahir_güncel\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.csproj.GenerateResource.cache
+F:\Tahir_güncel\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.csproj.CoreCompileInputs.cache
+F:\Tahir_güncel\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.exe
+F:\Tahir_güncel\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.pdb
+E:\Tahir_güncel\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\bin\Debug\Kütüphane Uygulaması.exe.config
+E:\Tahir_güncel\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\bin\Debug\Kütüphane Uygulaması.exe
+E:\Tahir_güncel\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\bin\Debug\Kütüphane Uygulaması.pdb
+E:\Tahir_güncel\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.csprojAssemblyReference.cache
+E:\Tahir_güncel\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm2.resources
+E:\Tahir_güncel\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.FormAmac.resources
+E:\Tahir_güncel\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Formarama.resources
+E:\Tahir_güncel\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.FormDüzen.resources
+E:\Tahir_güncel\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Formkitaplık.resources
+E:\Tahir_güncel\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.FormKural.resources
+E:\Tahir_güncel\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm7.resources
+E:\Tahir_güncel\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm3.resources
+E:\Tahir_güncel\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm1.resources
+E:\Tahir_güncel\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Properties.Resources.resources
+E:\Tahir_güncel\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.csproj.GenerateResource.cache
+E:\Tahir_güncel\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.csproj.CoreCompileInputs.cache
+E:\Tahir_güncel\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.exe
+E:\Tahir_güncel\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.pdb
+C:\Users\HUPT\Desktop\(SİLMEYİNİZ!!)Tahir_güncel\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\bin\Debug\Kütüphane Uygulaması.exe.config
+C:\Users\HUPT\Desktop\(SİLMEYİNİZ!!)Tahir_güncel\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\bin\Debug\Kütüphane Uygulaması.exe
+C:\Users\HUPT\Desktop\(SİLMEYİNİZ!!)Tahir_güncel\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\bin\Debug\Kütüphane Uygulaması.pdb
+C:\Users\HUPT\Desktop\(SİLMEYİNİZ!!)Tahir_güncel\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.csprojAssemblyReference.cache
+C:\Users\HUPT\Desktop\(SİLMEYİNİZ!!)Tahir_güncel\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm2.resources
+C:\Users\HUPT\Desktop\(SİLMEYİNİZ!!)Tahir_güncel\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.FormAmac.resources
+C:\Users\HUPT\Desktop\(SİLMEYİNİZ!!)Tahir_güncel\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Formarama.resources
+C:\Users\HUPT\Desktop\(SİLMEYİNİZ!!)Tahir_güncel\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.FormDüzen.resources
+C:\Users\HUPT\Desktop\(SİLMEYİNİZ!!)Tahir_güncel\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Formkitaplık.resources
+C:\Users\HUPT\Desktop\(SİLMEYİNİZ!!)Tahir_güncel\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.FormKural.resources
+C:\Users\HUPT\Desktop\(SİLMEYİNİZ!!)Tahir_güncel\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm7.resources
+C:\Users\HUPT\Desktop\(SİLMEYİNİZ!!)Tahir_güncel\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm3.resources
+C:\Users\HUPT\Desktop\(SİLMEYİNİZ!!)Tahir_güncel\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm1.resources
+C:\Users\HUPT\Desktop\(SİLMEYİNİZ!!)Tahir_güncel\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Properties.Resources.resources
+C:\Users\HUPT\Desktop\(SİLMEYİNİZ!!)Tahir_güncel\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.csproj.GenerateResource.cache
+C:\Users\HUPT\Desktop\(SİLMEYİNİZ!!)Tahir_güncel\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\HUPT\Desktop\(SİLMEYİNİZ!!)Tahir_güncel\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.exe
+C:\Users\HUPT\Desktop\(SİLMEYİNİZ!!)Tahir_güncel\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.pdb
+C:\Users\HUPT\Desktop\(SİLMEYİNİZ!!)Tahir_engüncel\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\bin\Debug\Kütüphane Uygulaması.exe.config
+C:\Users\HUPT\Desktop\(SİLMEYİNİZ!!)Tahir_engüncel\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\bin\Debug\Kütüphane Uygulaması.exe
+C:\Users\HUPT\Desktop\(SİLMEYİNİZ!!)Tahir_engüncel\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\bin\Debug\Kütüphane Uygulaması.pdb
+C:\Users\HUPT\Desktop\(SİLMEYİNİZ!!)Tahir_engüncel\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.csprojAssemblyReference.cache
+C:\Users\HUPT\Desktop\(SİLMEYİNİZ!!)Tahir_engüncel\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm2.resources
+C:\Users\HUPT\Desktop\(SİLMEYİNİZ!!)Tahir_engüncel\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.FormAmac.resources
+C:\Users\HUPT\Desktop\(SİLMEYİNİZ!!)Tahir_engüncel\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Formarama.resources
+C:\Users\HUPT\Desktop\(SİLMEYİNİZ!!)Tahir_engüncel\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.FormDüzen.resources
+C:\Users\HUPT\Desktop\(SİLMEYİNİZ!!)Tahir_engüncel\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Formkitaplık.resources
+C:\Users\HUPT\Desktop\(SİLMEYİNİZ!!)Tahir_engüncel\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.FormKural.resources
+C:\Users\HUPT\Desktop\(SİLMEYİNİZ!!)Tahir_engüncel\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm7.resources
+C:\Users\HUPT\Desktop\(SİLMEYİNİZ!!)Tahir_engüncel\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm3.resources
+C:\Users\HUPT\Desktop\(SİLMEYİNİZ!!)Tahir_engüncel\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm1.resources
+C:\Users\HUPT\Desktop\(SİLMEYİNİZ!!)Tahir_engüncel\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Properties.Resources.resources
+C:\Users\HUPT\Desktop\(SİLMEYİNİZ!!)Tahir_engüncel\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.csproj.GenerateResource.cache
+C:\Users\HUPT\Desktop\(SİLMEYİNİZ!!)Tahir_engüncel\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\HUPT\Desktop\(SİLMEYİNİZ!!)Tahir_engüncel\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.exe
+C:\Users\HUPT\Desktop\(SİLMEYİNİZ!!)Tahir_engüncel\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.pdb
+D:\Kütüphane Programı Dosyaları\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\bin\Debug\Kütüphane Uygulaması.exe.config
+D:\Kütüphane Programı Dosyaları\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\bin\Debug\Kütüphane Uygulaması.exe
+D:\Kütüphane Programı Dosyaları\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\bin\Debug\Kütüphane Uygulaması.pdb
+D:\Kütüphane Programı Dosyaları\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.csprojAssemblyReference.cache
+D:\Kütüphane Programı Dosyaları\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm2.resources
+D:\Kütüphane Programı Dosyaları\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.FormAmac.resources
+D:\Kütüphane Programı Dosyaları\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Formarama.resources
+D:\Kütüphane Programı Dosyaları\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.FormDüzen.resources
+D:\Kütüphane Programı Dosyaları\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Formkitaplık.resources
+D:\Kütüphane Programı Dosyaları\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.FormKural.resources
+D:\Kütüphane Programı Dosyaları\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm7.resources
+D:\Kütüphane Programı Dosyaları\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm3.resources
+D:\Kütüphane Programı Dosyaları\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm1.resources
+D:\Kütüphane Programı Dosyaları\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Properties.Resources.resources
+D:\Kütüphane Programı Dosyaları\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.csproj.GenerateResource.cache
+D:\Kütüphane Programı Dosyaları\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.csproj.CoreCompileInputs.cache
+D:\Kütüphane Programı Dosyaları\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.exe
+D:\Kütüphane Programı Dosyaları\Kütüphane Programı_151019\Program_İncreihtiyacıolan\Program\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.pdb
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\bin\Debug\Kütüphane Uygulaması.exe.config
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\bin\Debug\Kütüphane Uygulaması.exe
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\bin\Debug\Kütüphane Uygulaması.pdb
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.csprojAssemblyReference.cache
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm2.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.FormAmac.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Formarama.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.FormDüzen.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Formkitaplık.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.FormKural.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm7.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm3.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm1.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Properties.Resources.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.csproj.GenerateResource.cache
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.exe
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.pdb
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.formsecim.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\bin\Debug\Newtonsoft.Json.dll
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\bin\Debug\Twilio.dll
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\bin\Debug\Newtonsoft.Json.xml
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\bin\Debug\Twilio.xml
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.csproj.CopyComplete
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.frmkitapara.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.formtanıtım.resources
+C:\Users\wasd0\Desktop\En yeni notlar\Kütüphane Programı Dosyaları(1920X1080)(6.)\Kütüphane Uygulaması\bin\Debug\Kütüphane Uygulaması.exe.config
+C:\Users\wasd0\Desktop\En yeni notlar\Kütüphane Programı Dosyaları(1920X1080)(6.)\Kütüphane Uygulaması\bin\Debug\Kütüphane Uygulaması.exe
+C:\Users\wasd0\Desktop\En yeni notlar\Kütüphane Programı Dosyaları(1920X1080)(6.)\Kütüphane Uygulaması\bin\Debug\Kütüphane Uygulaması.pdb
+C:\Users\wasd0\Desktop\En yeni notlar\Kütüphane Programı Dosyaları(1920X1080)(6.)\Kütüphane Uygulaması\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\wasd0\Desktop\En yeni notlar\Kütüphane Programı Dosyaları(1920X1080)(6.)\Kütüphane Uygulaması\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\wasd0\Desktop\En yeni notlar\Kütüphane Programı Dosyaları(1920X1080)(6.)\Kütüphane Uygulaması\bin\Debug\Newtonsoft.Json.dll
+C:\Users\wasd0\Desktop\En yeni notlar\Kütüphane Programı Dosyaları(1920X1080)(6.)\Kütüphane Uygulaması\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\wasd0\Desktop\En yeni notlar\Kütüphane Programı Dosyaları(1920X1080)(6.)\Kütüphane Uygulaması\bin\Debug\Twilio.dll
+C:\Users\wasd0\Desktop\En yeni notlar\Kütüphane Programı Dosyaları(1920X1080)(6.)\Kütüphane Uygulaması\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\wasd0\Desktop\En yeni notlar\Kütüphane Programı Dosyaları(1920X1080)(6.)\Kütüphane Uygulaması\bin\Debug\Newtonsoft.Json.xml
+C:\Users\wasd0\Desktop\En yeni notlar\Kütüphane Programı Dosyaları(1920X1080)(6.)\Kütüphane Uygulaması\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\wasd0\Desktop\En yeni notlar\Kütüphane Programı Dosyaları(1920X1080)(6.)\Kütüphane Uygulaması\bin\Debug\Twilio.xml
+C:\Users\wasd0\Desktop\En yeni notlar\Kütüphane Programı Dosyaları(1920X1080)(6.)\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.csprojAssemblyReference.cache
+C:\Users\wasd0\Desktop\En yeni notlar\Kütüphane Programı Dosyaları(1920X1080)(6.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm2.resources
+C:\Users\wasd0\Desktop\En yeni notlar\Kütüphane Programı Dosyaları(1920X1080)(6.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.FormAmac.resources
+C:\Users\wasd0\Desktop\En yeni notlar\Kütüphane Programı Dosyaları(1920X1080)(6.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Formarama.resources
+C:\Users\wasd0\Desktop\En yeni notlar\Kütüphane Programı Dosyaları(1920X1080)(6.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.FormDüzen.resources
+C:\Users\wasd0\Desktop\En yeni notlar\Kütüphane Programı Dosyaları(1920X1080)(6.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Formkitaplık.resources
+C:\Users\wasd0\Desktop\En yeni notlar\Kütüphane Programı Dosyaları(1920X1080)(6.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.FormKural.resources
+C:\Users\wasd0\Desktop\En yeni notlar\Kütüphane Programı Dosyaları(1920X1080)(6.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.formsecim.resources
+C:\Users\wasd0\Desktop\En yeni notlar\Kütüphane Programı Dosyaları(1920X1080)(6.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.formtanıtım.resources
+C:\Users\wasd0\Desktop\En yeni notlar\Kütüphane Programı Dosyaları(1920X1080)(6.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.frmkitapara.resources
+C:\Users\wasd0\Desktop\En yeni notlar\Kütüphane Programı Dosyaları(1920X1080)(6.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm7.resources
+C:\Users\wasd0\Desktop\En yeni notlar\Kütüphane Programı Dosyaları(1920X1080)(6.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm3.resources
+C:\Users\wasd0\Desktop\En yeni notlar\Kütüphane Programı Dosyaları(1920X1080)(6.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm1.resources
+C:\Users\wasd0\Desktop\En yeni notlar\Kütüphane Programı Dosyaları(1920X1080)(6.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Properties.Resources.resources
+C:\Users\wasd0\Desktop\En yeni notlar\Kütüphane Programı Dosyaları(1920X1080)(6.)\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.csproj.GenerateResource.cache
+C:\Users\wasd0\Desktop\En yeni notlar\Kütüphane Programı Dosyaları(1920X1080)(6.)\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.csproj.CopyComplete
+C:\Users\wasd0\Desktop\En yeni notlar\Kütüphane Programı Dosyaları(1920X1080)(6.)\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.exe
+C:\Users\wasd0\Desktop\En yeni notlar\Kütüphane Programı Dosyaları(1920X1080)(6.)\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.pdb
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(6.)\Kütüphane Uygulaması\bin\Debug\Kütüphane Uygulaması.exe.config
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(6.)\Kütüphane Uygulaması\bin\Debug\Kütüphane Uygulaması.exe
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(6.)\Kütüphane Uygulaması\bin\Debug\Kütüphane Uygulaması.pdb
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(6.)\Kütüphane Uygulaması\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(6.)\Kütüphane Uygulaması\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(6.)\Kütüphane Uygulaması\bin\Debug\Newtonsoft.Json.dll
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(6.)\Kütüphane Uygulaması\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(6.)\Kütüphane Uygulaması\bin\Debug\Twilio.dll
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(6.)\Kütüphane Uygulaması\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(6.)\Kütüphane Uygulaması\bin\Debug\Newtonsoft.Json.xml
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(6.)\Kütüphane Uygulaması\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(6.)\Kütüphane Uygulaması\bin\Debug\Twilio.xml
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(6.)\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.csprojAssemblyReference.cache
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(6.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm2.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(6.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.FormAmac.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(6.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Formarama.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(6.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.FormDüzen.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(6.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Formkitaplık.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(6.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.FormKural.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(6.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.formsecim.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(6.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.formtanıtım.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(6.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.frmkitapara.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(6.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm7.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(6.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm3.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(6.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm1.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(6.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Properties.Resources.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(6.)\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.csproj.GenerateResource.cache
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(6.)\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.csproj.CopyComplete
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(6.)\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.exe
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(6.)\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.pdb
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(8.)\Kütüphane Uygulaması\bin\Debug\Kütüphane Uygulaması.exe.config
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(8.)\Kütüphane Uygulaması\bin\Debug\Kütüphane Uygulaması.exe
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(8.)\Kütüphane Uygulaması\bin\Debug\Kütüphane Uygulaması.pdb
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(8.)\Kütüphane Uygulaması\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(8.)\Kütüphane Uygulaması\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(8.)\Kütüphane Uygulaması\bin\Debug\Newtonsoft.Json.dll
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(8.)\Kütüphane Uygulaması\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(8.)\Kütüphane Uygulaması\bin\Debug\Twilio.dll
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(8.)\Kütüphane Uygulaması\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(8.)\Kütüphane Uygulaması\bin\Debug\Newtonsoft.Json.xml
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(8.)\Kütüphane Uygulaması\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(8.)\Kütüphane Uygulaması\bin\Debug\Twilio.xml
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(8.)\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.csprojAssemblyReference.cache
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(8.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm2.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(8.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.FormAmac.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(8.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Formarama.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(8.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.FormDüzen.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(8.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Formkitaplık.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(8.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.FormKural.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(8.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.formsecim.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(8.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.formtanıtım.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(8.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.frmkitapara.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(8.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm7.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(8.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm3.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(8.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm1.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(8.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Properties.Resources.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(8.)\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.csproj.GenerateResource.cache
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(8.)\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.csproj.CopyComplete
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(8.)\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.exe
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(8.)\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.pdb
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(8.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.frmsplashscreen.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(10.)\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.csprojAssemblyReference.cache
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(10.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm2.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(10.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.FormAmac.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(10.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Formarama.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(10.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.FormDüzen.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(10.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Formkitaplık.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(10.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.FormKural.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(10.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.formsecim.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(10.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.formtanıtım.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(10.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.frmkitapara.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(10.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.frmload.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(10.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.frmsplashscreen.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(10.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm7.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(10.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm3.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(10.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm1.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(10.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Properties.Resources.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(10.)\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.csproj.GenerateResource.cache
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(10.)\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.exe
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(10.)\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.pdb
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(11.)\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.csprojAssemblyReference.cache
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(11.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm2.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(11.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.FormAmac.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(11.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Formarama.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(11.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.FormDüzen.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(11.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Formkitaplık.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(11.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.FormKural.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(11.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.formsecim.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(11.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.formtanıtım.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(11.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.frmkitapara.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(11.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.frmsplashscreen.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(11.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm7.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(11.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm3.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(11.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm1.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(11.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Properties.Resources.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(11.)\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.csproj.GenerateResource.cache
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(11.)\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.exe
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(11.)\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.pdb
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(11.)\Kütüphane Uygulaması\bin\Debug\Kütüphane Uygulaması.exe.config
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(11.)\Kütüphane Uygulaması\bin\Debug\Kütüphane Uygulaması.exe
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(11.)\Kütüphane Uygulaması\bin\Debug\Kütüphane Uygulaması.pdb
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(11.)\Kütüphane Uygulaması\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(11.)\Kütüphane Uygulaması\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(11.)\Kütüphane Uygulaması\bin\Debug\Newtonsoft.Json.dll
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(11.)\Kütüphane Uygulaması\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(11.)\Kütüphane Uygulaması\bin\Debug\Twilio.dll
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(11.)\Kütüphane Uygulaması\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(11.)\Kütüphane Uygulaması\bin\Debug\Newtonsoft.Json.xml
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(11.)\Kütüphane Uygulaması\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(11.)\Kütüphane Uygulaması\bin\Debug\Twilio.xml
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(11.)\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.csproj.CopyComplete
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(11.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.frmtüm.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(12.)\Kütüphane Uygulaması\bin\Debug\Kütüphane Uygulaması.exe.config
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(12.)\Kütüphane Uygulaması\bin\Debug\Kütüphane Uygulaması.exe
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(12.)\Kütüphane Uygulaması\bin\Debug\Kütüphane Uygulaması.pdb
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(12.)\Kütüphane Uygulaması\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(12.)\Kütüphane Uygulaması\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(12.)\Kütüphane Uygulaması\bin\Debug\Newtonsoft.Json.dll
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(12.)\Kütüphane Uygulaması\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(12.)\Kütüphane Uygulaması\bin\Debug\Twilio.dll
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(12.)\Kütüphane Uygulaması\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(12.)\Kütüphane Uygulaması\bin\Debug\Newtonsoft.Json.xml
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(12.)\Kütüphane Uygulaması\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(12.)\Kütüphane Uygulaması\bin\Debug\Twilio.xml
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(12.)\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.csprojAssemblyReference.cache
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(12.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm2.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(12.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.FormAmac.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(12.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Formarama.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(12.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.FormDüzen.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(12.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Formkitaplık.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(12.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.FormKural.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(12.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.formsecim.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(12.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.formtanıtım.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(12.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.frmkitapara.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(12.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.frmtüm.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(12.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm7.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(12.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm3.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(12.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm1.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(12.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Properties.Resources.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(12.)\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.csproj.GenerateResource.cache
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(12.)\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.csproj.CopyComplete
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(12.)\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.exe
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(12.)\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.pdb
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(13.)\Kütüphane Uygulaması\bin\Debug\Kütüphane Uygulaması.exe.config
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(13.)\Kütüphane Uygulaması\bin\Debug\Kütüphane Uygulaması.exe
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(13.)\Kütüphane Uygulaması\bin\Debug\Kütüphane Uygulaması.pdb
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(13.)\Kütüphane Uygulaması\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(13.)\Kütüphane Uygulaması\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(13.)\Kütüphane Uygulaması\bin\Debug\Newtonsoft.Json.dll
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(13.)\Kütüphane Uygulaması\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(13.)\Kütüphane Uygulaması\bin\Debug\Twilio.dll
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(13.)\Kütüphane Uygulaması\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(13.)\Kütüphane Uygulaması\bin\Debug\Newtonsoft.Json.xml
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(13.)\Kütüphane Uygulaması\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(13.)\Kütüphane Uygulaması\bin\Debug\Twilio.xml
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(13.)\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.csprojAssemblyReference.cache
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(13.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm2.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(13.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.FormAmac.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(13.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Formarama.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(13.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.FormDüzen.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(13.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Formkitaplık.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(13.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.FormKural.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(13.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.formsecim.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(13.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.formtanıtım.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(13.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.frmkitapara.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(13.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.frmtüm.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(13.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm7.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(13.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm3.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(13.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm1.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(13.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Properties.Resources.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(13.)\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.csproj.GenerateResource.cache
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(13.)\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.csproj.CopyComplete
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(13.)\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.exe
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(13.)\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.pdb
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(13.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.frmhatalid.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(14.)\Kütüphane Uygulaması\bin\Debug\Kütüphane Uygulaması.exe.config
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(14.)\Kütüphane Uygulaması\bin\Debug\Kütüphane Uygulaması.exe
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(14.)\Kütüphane Uygulaması\bin\Debug\Kütüphane Uygulaması.pdb
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(14.)\Kütüphane Uygulaması\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(14.)\Kütüphane Uygulaması\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(14.)\Kütüphane Uygulaması\bin\Debug\Newtonsoft.Json.dll
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(14.)\Kütüphane Uygulaması\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(14.)\Kütüphane Uygulaması\bin\Debug\Twilio.dll
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(14.)\Kütüphane Uygulaması\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(14.)\Kütüphane Uygulaması\bin\Debug\Newtonsoft.Json.xml
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(14.)\Kütüphane Uygulaması\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(14.)\Kütüphane Uygulaması\bin\Debug\Twilio.xml
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(14.)\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.csprojAssemblyReference.cache
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(14.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm2.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(14.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.FormAmac.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(14.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Formarama.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(14.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.FormDüzen.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(14.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Formkitaplık.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(14.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.FormKural.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(14.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.formsecim.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(14.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.formtanıtım.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(14.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.frmhatalid.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(14.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.frmkitapara.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(14.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.frmtüm.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(14.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm7.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(14.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm3.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(14.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm1.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(14.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Properties.Resources.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(14.)\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.csproj.GenerateResource.cache
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(14.)\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.csproj.CopyComplete
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(14.)\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.exe
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(14.)\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.pdb
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(15.)\Kütüphane Uygulaması\bin\Debug\Kütüphane Uygulaması.exe.config
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(15.)\Kütüphane Uygulaması\bin\Debug\Kütüphane Uygulaması.exe
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(15.)\Kütüphane Uygulaması\bin\Debug\Kütüphane Uygulaması.pdb
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(15.)\Kütüphane Uygulaması\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(15.)\Kütüphane Uygulaması\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(15.)\Kütüphane Uygulaması\bin\Debug\Newtonsoft.Json.dll
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(15.)\Kütüphane Uygulaması\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(15.)\Kütüphane Uygulaması\bin\Debug\Twilio.dll
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(15.)\Kütüphane Uygulaması\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(15.)\Kütüphane Uygulaması\bin\Debug\Newtonsoft.Json.xml
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(15.)\Kütüphane Uygulaması\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(15.)\Kütüphane Uygulaması\bin\Debug\Twilio.xml
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(15.)\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.csprojAssemblyReference.cache
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(15.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm2.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(15.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.FormAmac.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(15.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Formarama.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(15.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.FormDüzen.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(15.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Formkitaplık.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(15.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.FormKural.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(15.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.formsecim.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(15.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.formtanıtım.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(15.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.frmhatalid.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(15.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.frmkitapara.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(15.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.frmtüm.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(15.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm7.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(15.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm3.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(15.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm1.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(15.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Properties.Resources.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(15.)\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.csproj.GenerateResource.cache
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(15.)\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.csproj.CopyComplete
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(15.)\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.exe
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(15.)\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.pdb
+C:\Users\wasd0\Desktop\en güncel yedek\Kütüphane Programı Dosyaları(1920X1080)(16.)\Kütüphane Uygulaması\bin\Debug\Kütüphane Uygulaması.exe.config
+C:\Users\wasd0\Desktop\en güncel yedek\Kütüphane Programı Dosyaları(1920X1080)(16.)\Kütüphane Uygulaması\bin\Debug\Kütüphane Uygulaması.exe
+C:\Users\wasd0\Desktop\en güncel yedek\Kütüphane Programı Dosyaları(1920X1080)(16.)\Kütüphane Uygulaması\bin\Debug\Kütüphane Uygulaması.pdb
+C:\Users\wasd0\Desktop\en güncel yedek\Kütüphane Programı Dosyaları(1920X1080)(16.)\Kütüphane Uygulaması\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\wasd0\Desktop\en güncel yedek\Kütüphane Programı Dosyaları(1920X1080)(16.)\Kütüphane Uygulaması\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\wasd0\Desktop\en güncel yedek\Kütüphane Programı Dosyaları(1920X1080)(16.)\Kütüphane Uygulaması\bin\Debug\Newtonsoft.Json.dll
+C:\Users\wasd0\Desktop\en güncel yedek\Kütüphane Programı Dosyaları(1920X1080)(16.)\Kütüphane Uygulaması\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\wasd0\Desktop\en güncel yedek\Kütüphane Programı Dosyaları(1920X1080)(16.)\Kütüphane Uygulaması\bin\Debug\Twilio.dll
+C:\Users\wasd0\Desktop\en güncel yedek\Kütüphane Programı Dosyaları(1920X1080)(16.)\Kütüphane Uygulaması\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\wasd0\Desktop\en güncel yedek\Kütüphane Programı Dosyaları(1920X1080)(16.)\Kütüphane Uygulaması\bin\Debug\Newtonsoft.Json.xml
+C:\Users\wasd0\Desktop\en güncel yedek\Kütüphane Programı Dosyaları(1920X1080)(16.)\Kütüphane Uygulaması\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\wasd0\Desktop\en güncel yedek\Kütüphane Programı Dosyaları(1920X1080)(16.)\Kütüphane Uygulaması\bin\Debug\Twilio.xml
+C:\Users\wasd0\Desktop\en güncel yedek\Kütüphane Programı Dosyaları(1920X1080)(16.)\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.csprojAssemblyReference.cache
+C:\Users\wasd0\Desktop\en güncel yedek\Kütüphane Programı Dosyaları(1920X1080)(16.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm2.resources
+C:\Users\wasd0\Desktop\en güncel yedek\Kütüphane Programı Dosyaları(1920X1080)(16.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.FormAmac.resources
+C:\Users\wasd0\Desktop\en güncel yedek\Kütüphane Programı Dosyaları(1920X1080)(16.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Formarama.resources
+C:\Users\wasd0\Desktop\en güncel yedek\Kütüphane Programı Dosyaları(1920X1080)(16.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.FormDüzen.resources
+C:\Users\wasd0\Desktop\en güncel yedek\Kütüphane Programı Dosyaları(1920X1080)(16.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Formkitaplık.resources
+C:\Users\wasd0\Desktop\en güncel yedek\Kütüphane Programı Dosyaları(1920X1080)(16.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.FormKural.resources
+C:\Users\wasd0\Desktop\en güncel yedek\Kütüphane Programı Dosyaları(1920X1080)(16.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.formsecim.resources
+C:\Users\wasd0\Desktop\en güncel yedek\Kütüphane Programı Dosyaları(1920X1080)(16.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.formtanıtım.resources
+C:\Users\wasd0\Desktop\en güncel yedek\Kütüphane Programı Dosyaları(1920X1080)(16.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.frmhatalid.resources
+C:\Users\wasd0\Desktop\en güncel yedek\Kütüphane Programı Dosyaları(1920X1080)(16.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.frmkitapara.resources
+C:\Users\wasd0\Desktop\en güncel yedek\Kütüphane Programı Dosyaları(1920X1080)(16.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.frmtüm.resources
+C:\Users\wasd0\Desktop\en güncel yedek\Kütüphane Programı Dosyaları(1920X1080)(16.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm7.resources
+C:\Users\wasd0\Desktop\en güncel yedek\Kütüphane Programı Dosyaları(1920X1080)(16.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm3.resources
+C:\Users\wasd0\Desktop\en güncel yedek\Kütüphane Programı Dosyaları(1920X1080)(16.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm1.resources
+C:\Users\wasd0\Desktop\en güncel yedek\Kütüphane Programı Dosyaları(1920X1080)(16.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Properties.Resources.resources
+C:\Users\wasd0\Desktop\en güncel yedek\Kütüphane Programı Dosyaları(1920X1080)(16.)\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.csproj.GenerateResource.cache
+C:\Users\wasd0\Desktop\en güncel yedek\Kütüphane Programı Dosyaları(1920X1080)(16.)\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.csproj.CopyComplete
+C:\Users\wasd0\Desktop\en güncel yedek\Kütüphane Programı Dosyaları(1920X1080)(16.)\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.exe
+C:\Users\wasd0\Desktop\en güncel yedek\Kütüphane Programı Dosyaları(1920X1080)(16.)\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.pdb
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(17.)\Kütüphane Uygulaması\bin\Debug\Kütüphane Uygulaması.exe.config
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(17.)\Kütüphane Uygulaması\bin\Debug\Kütüphane Uygulaması.exe
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(17.)\Kütüphane Uygulaması\bin\Debug\Kütüphane Uygulaması.pdb
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(17.)\Kütüphane Uygulaması\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(17.)\Kütüphane Uygulaması\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(17.)\Kütüphane Uygulaması\bin\Debug\Newtonsoft.Json.dll
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(17.)\Kütüphane Uygulaması\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(17.)\Kütüphane Uygulaması\bin\Debug\Twilio.dll
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(17.)\Kütüphane Uygulaması\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(17.)\Kütüphane Uygulaması\bin\Debug\Newtonsoft.Json.xml
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(17.)\Kütüphane Uygulaması\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(17.)\Kütüphane Uygulaması\bin\Debug\Twilio.xml
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(17.)\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.csprojAssemblyReference.cache
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(17.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm2.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(17.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.FormAmac.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(17.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Formarama.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(17.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.FormDüzen.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(17.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Formkitaplık.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(17.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.FormKural.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(17.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.formsecim.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(17.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.formtanıtım.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(17.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.frmhatalid.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(17.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.frmkitapara.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(17.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.frmtüm.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(17.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm7.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(17.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm3.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(17.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm1.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(17.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Properties.Resources.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(17.)\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.csproj.GenerateResource.cache
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(17.)\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.csproj.CopyComplete
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(17.)\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.exe
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(17.)\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.pdb
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)\Kütüphane Uygulaması\bin\Debug\Kütüphane Uygulaması.exe.config
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)\Kütüphane Uygulaması\bin\Debug\Kütüphane Uygulaması.exe
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)\Kütüphane Uygulaması\bin\Debug\Kütüphane Uygulaması.pdb
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)\Kütüphane Uygulaması\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)\Kütüphane Uygulaması\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)\Kütüphane Uygulaması\bin\Debug\Newtonsoft.Json.dll
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)\Kütüphane Uygulaması\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)\Kütüphane Uygulaması\bin\Debug\Twilio.dll
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)\Kütüphane Uygulaması\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)\Kütüphane Uygulaması\bin\Debug\Newtonsoft.Json.xml
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)\Kütüphane Uygulaması\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)\Kütüphane Uygulaması\bin\Debug\Twilio.xml
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.csprojAssemblyReference.cache
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm2.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.FormAmac.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Formarama.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.FormDüzen.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Formkitaplık.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.FormKural.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.formsecim.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.formtanıtım.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.frmhatalid.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.frmkitapara.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.frmtüm.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm7.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm3.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm1.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Properties.Resources.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.csproj.GenerateResource.cache
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.csproj.CopyComplete
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.exe
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.pdb
+C:\Users\wasd0\Desktop\en güncel yedek\Kütüphane Programı Dosyaları(1920X1080)(18.)\Kütüphane Uygulaması\bin\Debug\Kütüphane Uygulaması.exe.config
+C:\Users\wasd0\Desktop\en güncel yedek\Kütüphane Programı Dosyaları(1920X1080)(18.)\Kütüphane Uygulaması\bin\Debug\Kütüphane Uygulaması.exe
+C:\Users\wasd0\Desktop\en güncel yedek\Kütüphane Programı Dosyaları(1920X1080)(18.)\Kütüphane Uygulaması\bin\Debug\Kütüphane Uygulaması.pdb
+C:\Users\wasd0\Desktop\en güncel yedek\Kütüphane Programı Dosyaları(1920X1080)(18.)\Kütüphane Uygulaması\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\wasd0\Desktop\en güncel yedek\Kütüphane Programı Dosyaları(1920X1080)(18.)\Kütüphane Uygulaması\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\wasd0\Desktop\en güncel yedek\Kütüphane Programı Dosyaları(1920X1080)(18.)\Kütüphane Uygulaması\bin\Debug\Newtonsoft.Json.dll
+C:\Users\wasd0\Desktop\en güncel yedek\Kütüphane Programı Dosyaları(1920X1080)(18.)\Kütüphane Uygulaması\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\wasd0\Desktop\en güncel yedek\Kütüphane Programı Dosyaları(1920X1080)(18.)\Kütüphane Uygulaması\bin\Debug\Twilio.dll
+C:\Users\wasd0\Desktop\en güncel yedek\Kütüphane Programı Dosyaları(1920X1080)(18.)\Kütüphane Uygulaması\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\wasd0\Desktop\en güncel yedek\Kütüphane Programı Dosyaları(1920X1080)(18.)\Kütüphane Uygulaması\bin\Debug\Newtonsoft.Json.xml
+C:\Users\wasd0\Desktop\en güncel yedek\Kütüphane Programı Dosyaları(1920X1080)(18.)\Kütüphane Uygulaması\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\wasd0\Desktop\en güncel yedek\Kütüphane Programı Dosyaları(1920X1080)(18.)\Kütüphane Uygulaması\bin\Debug\Twilio.xml
+C:\Users\wasd0\Desktop\en güncel yedek\Kütüphane Programı Dosyaları(1920X1080)(18.)\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.csprojAssemblyReference.cache
+C:\Users\wasd0\Desktop\en güncel yedek\Kütüphane Programı Dosyaları(1920X1080)(18.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm2.resources
+C:\Users\wasd0\Desktop\en güncel yedek\Kütüphane Programı Dosyaları(1920X1080)(18.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.FormAmac.resources
+C:\Users\wasd0\Desktop\en güncel yedek\Kütüphane Programı Dosyaları(1920X1080)(18.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Formarama.resources
+C:\Users\wasd0\Desktop\en güncel yedek\Kütüphane Programı Dosyaları(1920X1080)(18.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.FormDüzen.resources
+C:\Users\wasd0\Desktop\en güncel yedek\Kütüphane Programı Dosyaları(1920X1080)(18.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Formkitaplık.resources
+C:\Users\wasd0\Desktop\en güncel yedek\Kütüphane Programı Dosyaları(1920X1080)(18.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.FormKural.resources
+C:\Users\wasd0\Desktop\en güncel yedek\Kütüphane Programı Dosyaları(1920X1080)(18.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.formsecim.resources
+C:\Users\wasd0\Desktop\en güncel yedek\Kütüphane Programı Dosyaları(1920X1080)(18.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.formtanıtım.resources
+C:\Users\wasd0\Desktop\en güncel yedek\Kütüphane Programı Dosyaları(1920X1080)(18.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.frmhatalid.resources
+C:\Users\wasd0\Desktop\en güncel yedek\Kütüphane Programı Dosyaları(1920X1080)(18.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.frmkitapara.resources
+C:\Users\wasd0\Desktop\en güncel yedek\Kütüphane Programı Dosyaları(1920X1080)(18.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.frmtüm.resources
+C:\Users\wasd0\Desktop\en güncel yedek\Kütüphane Programı Dosyaları(1920X1080)(18.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm7.resources
+C:\Users\wasd0\Desktop\en güncel yedek\Kütüphane Programı Dosyaları(1920X1080)(18.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm3.resources
+C:\Users\wasd0\Desktop\en güncel yedek\Kütüphane Programı Dosyaları(1920X1080)(18.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm1.resources
+C:\Users\wasd0\Desktop\en güncel yedek\Kütüphane Programı Dosyaları(1920X1080)(18.)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Properties.Resources.resources
+C:\Users\wasd0\Desktop\en güncel yedek\Kütüphane Programı Dosyaları(1920X1080)(18.)\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.csproj.GenerateResource.cache
+C:\Users\wasd0\Desktop\en güncel yedek\Kütüphane Programı Dosyaları(1920X1080)(18.)\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.csproj.CopyComplete
+C:\Users\wasd0\Desktop\en güncel yedek\Kütüphane Programı Dosyaları(1920X1080)(18.)\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.exe
+C:\Users\wasd0\Desktop\en güncel yedek\Kütüphane Programı Dosyaları(1920X1080)(18.)\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.pdb
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)\Kütüphane Uygulaması\bin\Debug\Kütüphane Uygulaması.exe.config
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)\Kütüphane Uygulaması\bin\Debug\Kütüphane Uygulaması.exe
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)\Kütüphane Uygulaması\bin\Debug\Kütüphane Uygulaması.pdb
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)\Kütüphane Uygulaması\bin\Debug\en-US\Kütüphane Uygulaması.resources.dll
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)\Kütüphane Uygulaması\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)\Kütüphane Uygulaması\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)\Kütüphane Uygulaması\bin\Debug\Newtonsoft.Json.dll
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)\Kütüphane Uygulaması\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)\Kütüphane Uygulaması\bin\Debug\Twilio.dll
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)\Kütüphane Uygulaması\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)\Kütüphane Uygulaması\bin\Debug\Newtonsoft.Json.xml
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)\Kütüphane Uygulaması\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)\Kütüphane Uygulaması\bin\Debug\Twilio.xml
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.csprojAssemblyReference.cache
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm2.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.FormAmac.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Formarama.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.FormDüzen.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Formkitaplık.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.FormKural.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.formsecim.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.formtanıtım.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.frmhatalid.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.frmkitapara.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.frmtüm.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm7.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm3.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Localization.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm1.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Properties.Resources.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Localization.en-US.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.csproj.GenerateResource.cache
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)\Kütüphane Uygulaması\obj\Debug\en-US\Kütüphane Uygulaması.resources.dll
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.csproj.CopyComplete
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.exe
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.pdb
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)\Kütüphane Uygulaması\bin\Debug\ja-JP\Kütüphane Uygulaması.resources.dll
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Localization.ja-JP.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)\Kütüphane Uygulaması\obj\Debug\ja-JP\Kütüphane Uygulaması.resources.dll
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(2)\Kütüphane Uygulaması\bin\Debug\Kütüphane Uygulaması.exe.config
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(2)\Kütüphane Uygulaması\bin\Debug\Kütüphane Uygulaması.exe
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(2)\Kütüphane Uygulaması\bin\Debug\Kütüphane Uygulaması.pdb
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(2)\Kütüphane Uygulaması\bin\Debug\en-US\Kütüphane Uygulaması.resources.dll
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(2)\Kütüphane Uygulaması\bin\Debug\ja-JP\Kütüphane Uygulaması.resources.dll
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(2)\Kütüphane Uygulaması\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(2)\Kütüphane Uygulaması\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(2)\Kütüphane Uygulaması\bin\Debug\Newtonsoft.Json.dll
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(2)\Kütüphane Uygulaması\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(2)\Kütüphane Uygulaması\bin\Debug\Twilio.dll
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(2)\Kütüphane Uygulaması\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(2)\Kütüphane Uygulaması\bin\Debug\Newtonsoft.Json.xml
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(2)\Kütüphane Uygulaması\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(2)\Kütüphane Uygulaması\bin\Debug\Twilio.xml
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(2)\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.csprojAssemblyReference.cache
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(2)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm2.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(2)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.FormAmac.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(2)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Formarama.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(2)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.FormDüzen.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(2)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Formkitaplık.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(2)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.FormKural.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(2)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.formsecim.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(2)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.formtanıtım.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(2)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.frmhatalid.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(2)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.frmkitapara.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(2)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.frmtüm.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(2)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm7.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(2)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm3.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(2)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Localization.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(2)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm1.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(2)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Properties.Resources.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(2)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Localization.en-US.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(2)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Localization.ja-JP.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(2)\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.csproj.GenerateResource.cache
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(2)\Kütüphane Uygulaması\obj\Debug\en-US\Kütüphane Uygulaması.resources.dll
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(2)\Kütüphane Uygulaması\obj\Debug\ja-JP\Kütüphane Uygulaması.resources.dll
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(2)\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.csproj.CopyComplete
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(2)\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.exe
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(2)\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.pdb
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(4)\Kütüphane Uygulaması\bin\Debug\Kütüphane Uygulaması.exe.config
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(4)\Kütüphane Uygulaması\bin\Debug\Kütüphane Uygulaması.exe
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(4)\Kütüphane Uygulaması\bin\Debug\Kütüphane Uygulaması.pdb
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(4)\Kütüphane Uygulaması\bin\Debug\en-US\Kütüphane Uygulaması.resources.dll
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(4)\Kütüphane Uygulaması\bin\Debug\ja-JP\Kütüphane Uygulaması.resources.dll
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(4)\Kütüphane Uygulaması\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(4)\Kütüphane Uygulaması\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(4)\Kütüphane Uygulaması\bin\Debug\Newtonsoft.Json.dll
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(4)\Kütüphane Uygulaması\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(4)\Kütüphane Uygulaması\bin\Debug\Twilio.dll
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(4)\Kütüphane Uygulaması\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(4)\Kütüphane Uygulaması\bin\Debug\Newtonsoft.Json.xml
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(4)\Kütüphane Uygulaması\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(4)\Kütüphane Uygulaması\bin\Debug\Twilio.xml
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(4)\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.csprojAssemblyReference.cache
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(4)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm2.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(4)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.FormAmac.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(4)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Formarama.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(4)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.FormDüzen.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(4)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Formkitaplık.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(4)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.FormKural.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(4)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.formsecim.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(4)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.formtanıtım.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(4)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.frmhatalid.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(4)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.frmkitapara.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(4)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.frmtüm.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(4)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm7.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(4)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm3.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(4)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Localization.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(4)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm1.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(4)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Properties.Resources.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(4)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Localization.en-US.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(4)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Localization.ja-JP.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(4)\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.csproj.GenerateResource.cache
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(4)\Kütüphane Uygulaması\obj\Debug\en-US\Kütüphane Uygulaması.resources.dll
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(4)\Kütüphane Uygulaması\obj\Debug\ja-JP\Kütüphane Uygulaması.resources.dll
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(4)\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.csproj.CopyComplete
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(4)\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.exe
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(4)\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.pdb
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(4)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.frmmenustripadd.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(5)\Kütüphane Uygulaması\bin\Debug\Kütüphane Uygulaması.exe.config
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(5)\Kütüphane Uygulaması\bin\Debug\Kütüphane Uygulaması.exe
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(5)\Kütüphane Uygulaması\bin\Debug\Kütüphane Uygulaması.pdb
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(5)\Kütüphane Uygulaması\bin\Debug\en-US\Kütüphane Uygulaması.resources.dll
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(5)\Kütüphane Uygulaması\bin\Debug\ja-JP\Kütüphane Uygulaması.resources.dll
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(5)\Kütüphane Uygulaması\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(5)\Kütüphane Uygulaması\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(5)\Kütüphane Uygulaması\bin\Debug\Newtonsoft.Json.dll
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(5)\Kütüphane Uygulaması\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(5)\Kütüphane Uygulaması\bin\Debug\Twilio.dll
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(5)\Kütüphane Uygulaması\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(5)\Kütüphane Uygulaması\bin\Debug\Newtonsoft.Json.xml
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(5)\Kütüphane Uygulaması\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(5)\Kütüphane Uygulaması\bin\Debug\Twilio.xml
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(5)\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.csprojAssemblyReference.cache
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(5)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm2.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(5)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.FormAmac.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(5)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Formarama.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(5)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.FormDüzen.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(5)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Formkitaplık.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(5)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.FormKural.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(5)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.formsecim.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(5)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.formtanıtım.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(5)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.frmhatalid.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(5)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.frmkitapara.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(5)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.frmmenustripadd.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(5)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.frmtüm.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(5)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm7.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(5)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm3.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(5)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Localization.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(5)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm1.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(5)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Properties.Resources.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(5)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Localization.en-US.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(5)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Localization.ja-JP.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(5)\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.csproj.GenerateResource.cache
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(5)\Kütüphane Uygulaması\obj\Debug\en-US\Kütüphane Uygulaması.resources.dll
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(5)\Kütüphane Uygulaması\obj\Debug\ja-JP\Kütüphane Uygulaması.resources.dll
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(5)\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.csproj.CopyComplete
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(5)\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.exe
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(5)\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.pdb
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(6)\Kütüphane Uygulaması\bin\Debug\Kütüphane Uygulaması.exe.config
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(6)\Kütüphane Uygulaması\bin\Debug\Kütüphane Uygulaması.exe
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(6)\Kütüphane Uygulaması\bin\Debug\Kütüphane Uygulaması.pdb
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(6)\Kütüphane Uygulaması\bin\Debug\en-US\Kütüphane Uygulaması.resources.dll
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(6)\Kütüphane Uygulaması\bin\Debug\ja-JP\Kütüphane Uygulaması.resources.dll
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(6)\Kütüphane Uygulaması\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(6)\Kütüphane Uygulaması\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(6)\Kütüphane Uygulaması\bin\Debug\Newtonsoft.Json.dll
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(6)\Kütüphane Uygulaması\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(6)\Kütüphane Uygulaması\bin\Debug\Twilio.dll
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(6)\Kütüphane Uygulaması\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(6)\Kütüphane Uygulaması\bin\Debug\Newtonsoft.Json.xml
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(6)\Kütüphane Uygulaması\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(6)\Kütüphane Uygulaması\bin\Debug\Twilio.xml
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(6)\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.csprojAssemblyReference.cache
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(6)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm2.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(6)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.FormAmac.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(6)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Formarama.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(6)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.FormDüzen.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(6)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Formkitaplık.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(6)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.FormKural.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(6)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.formsecim.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(6)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.formtanıtım.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(6)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.frmhatalid.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(6)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.frmkitapara.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(6)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.frmtüm.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(6)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm7.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(6)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm3.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(6)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Localization.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(6)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm1.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(6)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Properties.Resources.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(6)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Localization.en-US.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(6)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Localization.ja-JP.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(6)\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.csproj.GenerateResource.cache
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(6)\Kütüphane Uygulaması\obj\Debug\en-US\Kütüphane Uygulaması.resources.dll
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(6)\Kütüphane Uygulaması\obj\Debug\ja-JP\Kütüphane Uygulaması.resources.dll
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(6)\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.csproj.CopyComplete
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(6)\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.exe
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(6)\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.pdb
+C:\Users\wasd0\Desktop\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(6)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.emek.resources
+C:\Users\wasd0\Desktop\Notlar\en güncel yedek\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(6)\Kütüphane Uygulaması\bin\Debug\Kütüphane Uygulaması.exe.config
+C:\Users\wasd0\Desktop\Notlar\en güncel yedek\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(6)\Kütüphane Uygulaması\bin\Debug\Kütüphane Uygulaması.exe
+C:\Users\wasd0\Desktop\Notlar\en güncel yedek\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(6)\Kütüphane Uygulaması\bin\Debug\Kütüphane Uygulaması.pdb
+C:\Users\wasd0\Desktop\Notlar\en güncel yedek\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(6)\Kütüphane Uygulaması\bin\Debug\en-US\Kütüphane Uygulaması.resources.dll
+C:\Users\wasd0\Desktop\Notlar\en güncel yedek\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(6)\Kütüphane Uygulaması\bin\Debug\ja-JP\Kütüphane Uygulaması.resources.dll
+C:\Users\wasd0\Desktop\Notlar\en güncel yedek\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(6)\Kütüphane Uygulaması\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\wasd0\Desktop\Notlar\en güncel yedek\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(6)\Kütüphane Uygulaması\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\wasd0\Desktop\Notlar\en güncel yedek\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(6)\Kütüphane Uygulaması\bin\Debug\Newtonsoft.Json.dll
+C:\Users\wasd0\Desktop\Notlar\en güncel yedek\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(6)\Kütüphane Uygulaması\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\wasd0\Desktop\Notlar\en güncel yedek\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(6)\Kütüphane Uygulaması\bin\Debug\Twilio.dll
+C:\Users\wasd0\Desktop\Notlar\en güncel yedek\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(6)\Kütüphane Uygulaması\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\wasd0\Desktop\Notlar\en güncel yedek\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(6)\Kütüphane Uygulaması\bin\Debug\Newtonsoft.Json.xml
+C:\Users\wasd0\Desktop\Notlar\en güncel yedek\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(6)\Kütüphane Uygulaması\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\wasd0\Desktop\Notlar\en güncel yedek\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(6)\Kütüphane Uygulaması\bin\Debug\Twilio.xml
+C:\Users\wasd0\Desktop\Notlar\en güncel yedek\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(6)\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.csprojAssemblyReference.cache
+C:\Users\wasd0\Desktop\Notlar\en güncel yedek\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(6)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm2.resources
+C:\Users\wasd0\Desktop\Notlar\en güncel yedek\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(6)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.emek.resources
+C:\Users\wasd0\Desktop\Notlar\en güncel yedek\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(6)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.FormAmac.resources
+C:\Users\wasd0\Desktop\Notlar\en güncel yedek\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(6)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Formarama.resources
+C:\Users\wasd0\Desktop\Notlar\en güncel yedek\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(6)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.FormDüzen.resources
+C:\Users\wasd0\Desktop\Notlar\en güncel yedek\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(6)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Formkitaplık.resources
+C:\Users\wasd0\Desktop\Notlar\en güncel yedek\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(6)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.FormKural.resources
+C:\Users\wasd0\Desktop\Notlar\en güncel yedek\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(6)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.formsecim.resources
+C:\Users\wasd0\Desktop\Notlar\en güncel yedek\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(6)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.formtanıtım.resources
+C:\Users\wasd0\Desktop\Notlar\en güncel yedek\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(6)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.frmhatalid.resources
+C:\Users\wasd0\Desktop\Notlar\en güncel yedek\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(6)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.frmkitapara.resources
+C:\Users\wasd0\Desktop\Notlar\en güncel yedek\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(6)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.frmtüm.resources
+C:\Users\wasd0\Desktop\Notlar\en güncel yedek\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(6)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm7.resources
+C:\Users\wasd0\Desktop\Notlar\en güncel yedek\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(6)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm3.resources
+C:\Users\wasd0\Desktop\Notlar\en güncel yedek\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(6)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Localization.resources
+C:\Users\wasd0\Desktop\Notlar\en güncel yedek\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(6)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm1.resources
+C:\Users\wasd0\Desktop\Notlar\en güncel yedek\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(6)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Properties.Resources.resources
+C:\Users\wasd0\Desktop\Notlar\en güncel yedek\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(6)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Localization.en-US.resources
+C:\Users\wasd0\Desktop\Notlar\en güncel yedek\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(6)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Localization.ja-JP.resources
+C:\Users\wasd0\Desktop\Notlar\en güncel yedek\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(6)\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.csproj.GenerateResource.cache
+C:\Users\wasd0\Desktop\Notlar\en güncel yedek\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(6)\Kütüphane Uygulaması\obj\Debug\en-US\Kütüphane Uygulaması.resources.dll
+C:\Users\wasd0\Desktop\Notlar\en güncel yedek\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(6)\Kütüphane Uygulaması\obj\Debug\ja-JP\Kütüphane Uygulaması.resources.dll
+C:\Users\wasd0\Desktop\Notlar\en güncel yedek\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(6)\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.csproj.CopyComplete
+C:\Users\wasd0\Desktop\Notlar\en güncel yedek\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(6)\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.exe
+C:\Users\wasd0\Desktop\Notlar\en güncel yedek\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(6)\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.pdb
+C:\Users\wasd0\Desktop\Notlar(Yedeğini al)\en güncel yedek\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(6)\Kütüphane Uygulaması\bin\Debug\Kütüphane Uygulaması.exe.config
+C:\Users\wasd0\Desktop\Notlar(Yedeğini al)\en güncel yedek\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(6)\Kütüphane Uygulaması\bin\Debug\Kütüphane Uygulaması.exe
+C:\Users\wasd0\Desktop\Notlar(Yedeğini al)\en güncel yedek\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(6)\Kütüphane Uygulaması\bin\Debug\Kütüphane Uygulaması.pdb
+C:\Users\wasd0\Desktop\Notlar(Yedeğini al)\en güncel yedek\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(6)\Kütüphane Uygulaması\bin\Debug\en-US\Kütüphane Uygulaması.resources.dll
+C:\Users\wasd0\Desktop\Notlar(Yedeğini al)\en güncel yedek\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(6)\Kütüphane Uygulaması\bin\Debug\ja-JP\Kütüphane Uygulaması.resources.dll
+C:\Users\wasd0\Desktop\Notlar(Yedeğini al)\en güncel yedek\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(6)\Kütüphane Uygulaması\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\wasd0\Desktop\Notlar(Yedeğini al)\en güncel yedek\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(6)\Kütüphane Uygulaması\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\wasd0\Desktop\Notlar(Yedeğini al)\en güncel yedek\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(6)\Kütüphane Uygulaması\bin\Debug\Newtonsoft.Json.dll
+C:\Users\wasd0\Desktop\Notlar(Yedeğini al)\en güncel yedek\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(6)\Kütüphane Uygulaması\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\wasd0\Desktop\Notlar(Yedeğini al)\en güncel yedek\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(6)\Kütüphane Uygulaması\bin\Debug\Twilio.dll
+C:\Users\wasd0\Desktop\Notlar(Yedeğini al)\en güncel yedek\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(6)\Kütüphane Uygulaması\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\wasd0\Desktop\Notlar(Yedeğini al)\en güncel yedek\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(6)\Kütüphane Uygulaması\bin\Debug\Newtonsoft.Json.xml
+C:\Users\wasd0\Desktop\Notlar(Yedeğini al)\en güncel yedek\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(6)\Kütüphane Uygulaması\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\wasd0\Desktop\Notlar(Yedeğini al)\en güncel yedek\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(6)\Kütüphane Uygulaması\bin\Debug\Twilio.xml
+C:\Users\wasd0\Desktop\Notlar(Yedeğini al)\en güncel yedek\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(6)\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.csprojAssemblyReference.cache
+C:\Users\wasd0\Desktop\Notlar(Yedeğini al)\en güncel yedek\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(6)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm2.resources
+C:\Users\wasd0\Desktop\Notlar(Yedeğini al)\en güncel yedek\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(6)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.emek.resources
+C:\Users\wasd0\Desktop\Notlar(Yedeğini al)\en güncel yedek\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(6)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.FormAmac.resources
+C:\Users\wasd0\Desktop\Notlar(Yedeğini al)\en güncel yedek\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(6)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Formarama.resources
+C:\Users\wasd0\Desktop\Notlar(Yedeğini al)\en güncel yedek\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(6)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.FormDüzen.resources
+C:\Users\wasd0\Desktop\Notlar(Yedeğini al)\en güncel yedek\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(6)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Formkitaplık.resources
+C:\Users\wasd0\Desktop\Notlar(Yedeğini al)\en güncel yedek\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(6)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.FormKural.resources
+C:\Users\wasd0\Desktop\Notlar(Yedeğini al)\en güncel yedek\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(6)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.formsecim.resources
+C:\Users\wasd0\Desktop\Notlar(Yedeğini al)\en güncel yedek\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(6)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.formtanıtım.resources
+C:\Users\wasd0\Desktop\Notlar(Yedeğini al)\en güncel yedek\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(6)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.frmhatalid.resources
+C:\Users\wasd0\Desktop\Notlar(Yedeğini al)\en güncel yedek\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(6)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.frmkitapara.resources
+C:\Users\wasd0\Desktop\Notlar(Yedeğini al)\en güncel yedek\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(6)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.frmtüm.resources
+C:\Users\wasd0\Desktop\Notlar(Yedeğini al)\en güncel yedek\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(6)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm7.resources
+C:\Users\wasd0\Desktop\Notlar(Yedeğini al)\en güncel yedek\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(6)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm3.resources
+C:\Users\wasd0\Desktop\Notlar(Yedeğini al)\en güncel yedek\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(6)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Localization.resources
+C:\Users\wasd0\Desktop\Notlar(Yedeğini al)\en güncel yedek\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(6)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm1.resources
+C:\Users\wasd0\Desktop\Notlar(Yedeğini al)\en güncel yedek\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(6)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Properties.Resources.resources
+C:\Users\wasd0\Desktop\Notlar(Yedeğini al)\en güncel yedek\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(6)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Localization.en-US.resources
+C:\Users\wasd0\Desktop\Notlar(Yedeğini al)\en güncel yedek\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(6)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Localization.ja-JP.resources
+C:\Users\wasd0\Desktop\Notlar(Yedeğini al)\en güncel yedek\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(6)\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.csproj.GenerateResource.cache
+C:\Users\wasd0\Desktop\Notlar(Yedeğini al)\en güncel yedek\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(6)\Kütüphane Uygulaması\obj\Debug\en-US\Kütüphane Uygulaması.resources.dll
+C:\Users\wasd0\Desktop\Notlar(Yedeğini al)\en güncel yedek\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(6)\Kütüphane Uygulaması\obj\Debug\ja-JP\Kütüphane Uygulaması.resources.dll
+C:\Users\wasd0\Desktop\Notlar(Yedeğini al)\en güncel yedek\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(6)\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.csproj.CopyComplete
+C:\Users\wasd0\Desktop\Notlar(Yedeğini al)\en güncel yedek\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(6)\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.exe
+C:\Users\wasd0\Desktop\Notlar(Yedeğini al)\en güncel yedek\Kütüphane Programı Dosyaları(1920X1080)(18.)(Sağlam)(en güncel)(6)\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.pdb
+C:\Users\wasd0\Desktop\Kütüphane Programı\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\bin\Debug\Kütüphane Uygulaması.exe.config
+C:\Users\wasd0\Desktop\Kütüphane Programı\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\bin\Debug\Kütüphane Uygulaması.exe
+C:\Users\wasd0\Desktop\Kütüphane Programı\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\bin\Debug\Kütüphane Uygulaması.pdb
+C:\Users\wasd0\Desktop\Kütüphane Programı\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\bin\Debug\en-US\Kütüphane Uygulaması.resources.dll
+C:\Users\wasd0\Desktop\Kütüphane Programı\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\bin\Debug\ja-JP\Kütüphane Uygulaması.resources.dll
+C:\Users\wasd0\Desktop\Kütüphane Programı\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\wasd0\Desktop\Kütüphane Programı\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\wasd0\Desktop\Kütüphane Programı\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\bin\Debug\Newtonsoft.Json.dll
+C:\Users\wasd0\Desktop\Kütüphane Programı\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\wasd0\Desktop\Kütüphane Programı\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\bin\Debug\Twilio.dll
+C:\Users\wasd0\Desktop\Kütüphane Programı\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\wasd0\Desktop\Kütüphane Programı\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\bin\Debug\Newtonsoft.Json.xml
+C:\Users\wasd0\Desktop\Kütüphane Programı\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\wasd0\Desktop\Kütüphane Programı\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\bin\Debug\Twilio.xml
+C:\Users\wasd0\Desktop\Kütüphane Programı\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.csprojAssemblyReference.cache
+C:\Users\wasd0\Desktop\Kütüphane Programı\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm2.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.emek.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.FormAmac.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Formarama.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.FormDüzen.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Formkitaplık.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.FormKural.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.formsecim.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.formtanıtım.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.frmhatalid.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.frmkitapara.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.frmtüm.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm7.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm3.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Localization.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm1.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Properties.Resources.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Localization.en-US.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Localization.ja-JP.resources
+C:\Users\wasd0\Desktop\Kütüphane Programı\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.csproj.GenerateResource.cache
+C:\Users\wasd0\Desktop\Kütüphane Programı\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\obj\Debug\en-US\Kütüphane Uygulaması.resources.dll
+C:\Users\wasd0\Desktop\Kütüphane Programı\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\obj\Debug\ja-JP\Kütüphane Uygulaması.resources.dll
+C:\Users\wasd0\Desktop\Kütüphane Programı\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.csproj.CopyComplete
+C:\Users\wasd0\Desktop\Kütüphane Programı\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.exe
+C:\Users\wasd0\Desktop\Kütüphane Programı\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.pdb
+D:\En guncel_yedek\Kütüphane Programı\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\bin\Debug\Kütüphane Uygulaması.exe.config
+D:\En guncel_yedek\Kütüphane Programı\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\bin\Debug\Kütüphane Uygulaması.exe
+D:\En guncel_yedek\Kütüphane Programı\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\bin\Debug\Kütüphane Uygulaması.pdb
+D:\En guncel_yedek\Kütüphane Programı\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\bin\Debug\en-US\Kütüphane Uygulaması.resources.dll
+D:\En guncel_yedek\Kütüphane Programı\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\bin\Debug\ja-JP\Kütüphane Uygulaması.resources.dll
+D:\En guncel_yedek\Kütüphane Programı\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\En guncel_yedek\Kütüphane Programı\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\En guncel_yedek\Kütüphane Programı\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\bin\Debug\Newtonsoft.Json.dll
+D:\En guncel_yedek\Kütüphane Programı\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\En guncel_yedek\Kütüphane Programı\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\bin\Debug\Twilio.dll
+D:\En guncel_yedek\Kütüphane Programı\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\En guncel_yedek\Kütüphane Programı\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\bin\Debug\Newtonsoft.Json.xml
+D:\En guncel_yedek\Kütüphane Programı\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\En guncel_yedek\Kütüphane Programı\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\bin\Debug\Twilio.xml
+D:\En guncel_yedek\Kütüphane Programı\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.csprojAssemblyReference.cache
+D:\En guncel_yedek\Kütüphane Programı\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm2.resources
+D:\En guncel_yedek\Kütüphane Programı\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.emek.resources
+D:\En guncel_yedek\Kütüphane Programı\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.FormAmac.resources
+D:\En guncel_yedek\Kütüphane Programı\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Formarama.resources
+D:\En guncel_yedek\Kütüphane Programı\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.FormDüzen.resources
+D:\En guncel_yedek\Kütüphane Programı\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Formkitaplık.resources
+D:\En guncel_yedek\Kütüphane Programı\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.FormKural.resources
+D:\En guncel_yedek\Kütüphane Programı\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.formsecim.resources
+D:\En guncel_yedek\Kütüphane Programı\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.formtanıtım.resources
+D:\En guncel_yedek\Kütüphane Programı\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.frmhatalid.resources
+D:\En guncel_yedek\Kütüphane Programı\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.frmkitapara.resources
+D:\En guncel_yedek\Kütüphane Programı\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.frmtüm.resources
+D:\En guncel_yedek\Kütüphane Programı\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm7.resources
+D:\En guncel_yedek\Kütüphane Programı\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm3.resources
+D:\En guncel_yedek\Kütüphane Programı\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Localization.resources
+D:\En guncel_yedek\Kütüphane Programı\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm1.resources
+D:\En guncel_yedek\Kütüphane Programı\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Properties.Resources.resources
+D:\En guncel_yedek\Kütüphane Programı\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Localization.en-US.resources
+D:\En guncel_yedek\Kütüphane Programı\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Localization.ja-JP.resources
+D:\En guncel_yedek\Kütüphane Programı\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.csproj.GenerateResource.cache
+D:\En guncel_yedek\Kütüphane Programı\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\obj\Debug\en-US\Kütüphane Uygulaması.resources.dll
+D:\En guncel_yedek\Kütüphane Programı\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\obj\Debug\ja-JP\Kütüphane Uygulaması.resources.dll
+D:\En guncel_yedek\Kütüphane Programı\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.csproj.CopyComplete
+D:\En guncel_yedek\Kütüphane Programı\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.exe
+D:\En guncel_yedek\Kütüphane Programı\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.pdb
+C:\Users\wasd0\Desktop\Masaüstü yeni yedek\Kütüphane Programı\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\bin\Debug\Kütüphane Uygulaması.exe.config
+C:\Users\wasd0\Desktop\Masaüstü yeni yedek\Kütüphane Programı\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\bin\Debug\Kütüphane Uygulaması.exe
+C:\Users\wasd0\Desktop\Masaüstü yeni yedek\Kütüphane Programı\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\bin\Debug\Kütüphane Uygulaması.pdb
+C:\Users\wasd0\Desktop\Masaüstü yeni yedek\Kütüphane Programı\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\bin\Debug\en-US\Kütüphane Uygulaması.resources.dll
+C:\Users\wasd0\Desktop\Masaüstü yeni yedek\Kütüphane Programı\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\bin\Debug\ja-JP\Kütüphane Uygulaması.resources.dll
+C:\Users\wasd0\Desktop\Masaüstü yeni yedek\Kütüphane Programı\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\wasd0\Desktop\Masaüstü yeni yedek\Kütüphane Programı\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\wasd0\Desktop\Masaüstü yeni yedek\Kütüphane Programı\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\bin\Debug\Newtonsoft.Json.dll
+C:\Users\wasd0\Desktop\Masaüstü yeni yedek\Kütüphane Programı\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\wasd0\Desktop\Masaüstü yeni yedek\Kütüphane Programı\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\bin\Debug\Twilio.dll
+C:\Users\wasd0\Desktop\Masaüstü yeni yedek\Kütüphane Programı\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\wasd0\Desktop\Masaüstü yeni yedek\Kütüphane Programı\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\bin\Debug\Newtonsoft.Json.xml
+C:\Users\wasd0\Desktop\Masaüstü yeni yedek\Kütüphane Programı\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\wasd0\Desktop\Masaüstü yeni yedek\Kütüphane Programı\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\bin\Debug\Twilio.xml
+C:\Users\wasd0\Desktop\Masaüstü yeni yedek\Kütüphane Programı\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.csprojAssemblyReference.cache
+C:\Users\wasd0\Desktop\Masaüstü yeni yedek\Kütüphane Programı\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm2.resources
+C:\Users\wasd0\Desktop\Masaüstü yeni yedek\Kütüphane Programı\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.FormAmac.resources
+C:\Users\wasd0\Desktop\Masaüstü yeni yedek\Kütüphane Programı\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Formarama.resources
+C:\Users\wasd0\Desktop\Masaüstü yeni yedek\Kütüphane Programı\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.FormDüzen.resources
+C:\Users\wasd0\Desktop\Masaüstü yeni yedek\Kütüphane Programı\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Formkitaplık.resources
+C:\Users\wasd0\Desktop\Masaüstü yeni yedek\Kütüphane Programı\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.FormKural.resources
+C:\Users\wasd0\Desktop\Masaüstü yeni yedek\Kütüphane Programı\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.frmkitapara.resources
+C:\Users\wasd0\Desktop\Masaüstü yeni yedek\Kütüphane Programı\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.frmtüm.resources
+C:\Users\wasd0\Desktop\Masaüstü yeni yedek\Kütüphane Programı\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm7.resources
+C:\Users\wasd0\Desktop\Masaüstü yeni yedek\Kütüphane Programı\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm3.resources
+C:\Users\wasd0\Desktop\Masaüstü yeni yedek\Kütüphane Programı\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Localization.resources
+C:\Users\wasd0\Desktop\Masaüstü yeni yedek\Kütüphane Programı\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Properties.Resources.resources
+C:\Users\wasd0\Desktop\Masaüstü yeni yedek\Kütüphane Programı\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Localization.en-US.resources
+C:\Users\wasd0\Desktop\Masaüstü yeni yedek\Kütüphane Programı\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Localization.ja-JP.resources
+C:\Users\wasd0\Desktop\Masaüstü yeni yedek\Kütüphane Programı\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.csproj.GenerateResource.cache
+C:\Users\wasd0\Desktop\Masaüstü yeni yedek\Kütüphane Programı\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\obj\Debug\en-US\Kütüphane Uygulaması.resources.dll
+C:\Users\wasd0\Desktop\Masaüstü yeni yedek\Kütüphane Programı\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\obj\Debug\ja-JP\Kütüphane Uygulaması.resources.dll
+C:\Users\wasd0\Desktop\Masaüstü yeni yedek\Kütüphane Programı\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.csproj.CopyComplete
+C:\Users\wasd0\Desktop\Masaüstü yeni yedek\Kütüphane Programı\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.exe
+C:\Users\wasd0\Desktop\Masaüstü yeni yedek\Kütüphane Programı\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.pdb
+C:\Users\wasd0\Desktop\Masaüstü yeni yedek\Kütüphane Programı\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.frmadmin.resources
+C:\Users\wasd0\Desktop\Masaüstü yeni yedek\Kütüphane Programı\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.frmdoğrulama.resources
+C:\Users\wasd0\Desktop\Masaüstü yeni yedek\Kütüphane Programı\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.frmgiris.resources
+C:\Users\wasd0\Desktop\Masaüstü yeni yedek\Kütüphane Programı\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.frmbilgi.resources
+C:\Users\wasd0\Desktop\Masaüstü yeni yedek\Kütüphane Programı\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.frmsifre.resources
+C:\Users\wasd0\Desktop\Masaüstü yeni yedek\Kütüphane Programı\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.sifreformu.resources
+C:\Users\wasd0\Desktop\Masaüstü yeni yedek\Kütüphane Programı\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.dergi.resources
+C:\Users\wasd0\Desktop\Masaüstü yeni yedek\Kütüphane Programı\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.islemkayit.resources
+C:\Users\wasd0\Desktop\Masaüstü yeni yedek\Kütüphane Programı\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.sifreformu2.resources
+C:\Users\wasd0\Desktop\Masaüstü yeni yedek\Kütüphane Programı\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.nedenadmin.resources
+C:\Users\wasd0\Desktop\Masaüstü yeni yedek\Kütüphane Programı\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.proje.resources
+D:\Kutuphane_Diğer\Kütüphane Programı\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\bin\Debug\Kütüphane Uygulaması.exe.config
+D:\Kutuphane_Diğer\Kütüphane Programı\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\bin\Debug\Kütüphane Uygulaması.exe
+D:\Kutuphane_Diğer\Kütüphane Programı\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\bin\Debug\Kütüphane Uygulaması.pdb
+D:\Kutuphane_Diğer\Kütüphane Programı\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\bin\Debug\en-US\Kütüphane Uygulaması.resources.dll
+D:\Kutuphane_Diğer\Kütüphane Programı\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\bin\Debug\ja-JP\Kütüphane Uygulaması.resources.dll
+D:\Kutuphane_Diğer\Kütüphane Programı\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\Kutuphane_Diğer\Kütüphane Programı\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\Kutuphane_Diğer\Kütüphane Programı\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\bin\Debug\Newtonsoft.Json.dll
+D:\Kutuphane_Diğer\Kütüphane Programı\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\Kutuphane_Diğer\Kütüphane Programı\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\bin\Debug\Twilio.dll
+D:\Kutuphane_Diğer\Kütüphane Programı\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\Kutuphane_Diğer\Kütüphane Programı\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\bin\Debug\Newtonsoft.Json.xml
+D:\Kutuphane_Diğer\Kütüphane Programı\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\Kutuphane_Diğer\Kütüphane Programı\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\bin\Debug\Twilio.xml
+D:\Kutuphane_Diğer\Kütüphane Programı\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.csprojAssemblyReference.cache
+D:\Kutuphane_Diğer\Kütüphane Programı\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm2.resources
+D:\Kutuphane_Diğer\Kütüphane Programı\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.dergi.resources
+D:\Kutuphane_Diğer\Kütüphane Programı\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.FormAmac.resources
+D:\Kutuphane_Diğer\Kütüphane Programı\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Formarama.resources
+D:\Kutuphane_Diğer\Kütüphane Programı\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.FormDüzen.resources
+D:\Kutuphane_Diğer\Kütüphane Programı\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Formkitaplık.resources
+D:\Kutuphane_Diğer\Kütüphane Programı\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.FormKural.resources
+D:\Kutuphane_Diğer\Kütüphane Programı\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.frmadmin.resources
+D:\Kutuphane_Diğer\Kütüphane Programı\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.frmbilgi.resources
+D:\Kutuphane_Diğer\Kütüphane Programı\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.frmdoğrulama.resources
+D:\Kutuphane_Diğer\Kütüphane Programı\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.frmgiris.resources
+D:\Kutuphane_Diğer\Kütüphane Programı\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.frmkitapara.resources
+D:\Kutuphane_Diğer\Kütüphane Programı\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.frmsifre.resources
+D:\Kutuphane_Diğer\Kütüphane Programı\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.frmtüm.resources
+D:\Kutuphane_Diğer\Kütüphane Programı\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.islemkayit.resources
+D:\Kutuphane_Diğer\Kütüphane Programı\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm7.resources
+D:\Kutuphane_Diğer\Kütüphane Programı\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Frm3.resources
+D:\Kutuphane_Diğer\Kütüphane Programı\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Localization.resources
+D:\Kutuphane_Diğer\Kütüphane Programı\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.nedenadmin.resources
+D:\Kutuphane_Diğer\Kütüphane Programı\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.proje.resources
+D:\Kutuphane_Diğer\Kütüphane Programı\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Properties.Resources.resources
+D:\Kutuphane_Diğer\Kütüphane Programı\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.sifreformu.resources
+D:\Kutuphane_Diğer\Kütüphane Programı\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.sifreformu2.resources
+D:\Kutuphane_Diğer\Kütüphane Programı\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Localization.en-US.resources
+D:\Kutuphane_Diğer\Kütüphane Programı\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\obj\Debug\Kütüphane_Uygulaması.Localization.ja-JP.resources
+D:\Kutuphane_Diğer\Kütüphane Programı\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.csproj.GenerateResource.cache
+D:\Kutuphane_Diğer\Kütüphane Programı\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\obj\Debug\en-US\Kütüphane Uygulaması.resources.dll
+D:\Kutuphane_Diğer\Kütüphane Programı\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\obj\Debug\ja-JP\Kütüphane Uygulaması.resources.dll
+D:\Kutuphane_Diğer\Kütüphane Programı\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.csproj.CopyComplete
+D:\Kutuphane_Diğer\Kütüphane Programı\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.exe
+D:\Kutuphane_Diğer\Kütüphane Programı\Kütüphane Programı Dosyaları(1920X1080)\Kütüphane Uygulaması\obj\Debug\Kütüphane Uygulaması.pdb
